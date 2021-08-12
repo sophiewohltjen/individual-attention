@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<TextDataChronicle>
+  <TextData EyeFrameIndex="-1" Value="Start time for baseline: 694780.5876" Timestamp="160567" SynchronizedDateTime="2019-10-08 13:47:15:762" />
+  <TextData EyeFrameIndex="-1" Value="Start time for block 1: 694848.9713" Timestamp="168950" SynchronizedDateTime="2019-10-08 13:47:24:141" />
+  <TextData EyeFrameIndex="-1" Value="1, 1, 694850.1713" Timestamp="170151" SynchronizedDateTime="2019-10-08 13:47:25:343" />
+  <TextData EyeFrameIndex="-1" Value="2, 1, 694851.3713" Timestamp="171348" SynchronizedDateTime="2019-10-08 13:47:26:529" />
+  <TextData EyeFrameIndex="-1" Value="3, 1, 694852.5713" Timestamp="172549" SynchronizedDateTime="2019-10-08 13:47:27:730" />
+  <TextData EyeFrameIndex="-1" Value="4, 2, 694853.7713" Timestamp="173748" SynchronizedDateTime="2019-10-08 13:47:28:932" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694854.3512" Timestamp="174338" SynchronizedDateTime="2019-10-08 13:47:29:525" />
+  <TextData EyeFrameIndex="-1" Value="5, 1, 694854.9713" Timestamp="174946" SynchronizedDateTime="2019-10-08 13:47:30:133" />
+  <TextData EyeFrameIndex="-1" Value="6, 1, 694856.1713" Timestamp="176151" SynchronizedDateTime="2019-10-08 13:47:31:335" />
+  <TextData EyeFrameIndex="-1" Value="7, 1, 694857.3713" Timestamp="177353" SynchronizedDateTime="2019-10-08 13:47:32:537" />
+  <TextData EyeFrameIndex="-1" Value="8, 3, 694858.5713" Timestamp="178556" SynchronizedDateTime="2019-10-08 13:47:33:739" />
+  <TextData EyeFrameIndex="-1" Value="9, 1, 694859.7713" Timestamp="179764" SynchronizedDateTime="2019-10-08 13:47:34:956" />
+  <TextData EyeFrameIndex="-1" Value="10, 1, 694860.9713" Timestamp="180954" SynchronizedDateTime="2019-10-08 13:47:36:141" />
+  <TextData EyeFrameIndex="-1" Value="11, 1, 694862.1713" Timestamp="182148" SynchronizedDateTime="2019-10-08 13:47:37:328" />
+  <TextData EyeFrameIndex="-1" Value="12, 2, 694863.3713" Timestamp="183346" SynchronizedDateTime="2019-10-08 13:47:38:529" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694863.8393" Timestamp="183816" SynchronizedDateTime="2019-10-08 13:47:38:997" />
+  <TextData EyeFrameIndex="-1" Value="13, 1, 694864.5713" Timestamp="184550" SynchronizedDateTime="2019-10-08 13:47:39:746" />
+  <TextData EyeFrameIndex="-1" Value="14, 1, 694865.7713" Timestamp="185746" SynchronizedDateTime="2019-10-08 13:47:40:931" />
+  <TextData EyeFrameIndex="-1" Value="15, 1, 694866.9713" Timestamp="186949" SynchronizedDateTime="2019-10-08 13:47:42:133" />
+  <TextData EyeFrameIndex="-1" Value="16, 2, 694868.1713" Timestamp="188146" SynchronizedDateTime="2019-10-08 13:47:43:335" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694868.6557" Timestamp="188643" SynchronizedDateTime="2019-10-08 13:47:43:835" />
+  <TextData EyeFrameIndex="-1" Value="17, 1, 694869.3713" Timestamp="189346" SynchronizedDateTime="2019-10-08 13:47:44:537" />
+  <TextData EyeFrameIndex="-1" Value="18, 1, 694870.5713" Timestamp="190579" SynchronizedDateTime="2019-10-08 13:47:45:770" />
+  <TextData EyeFrameIndex="-1" Value="19, 1, 694871.7713" Timestamp="191752" SynchronizedDateTime="2019-10-08 13:47:46:940" />
+  <TextData EyeFrameIndex="-1" Value="20, 2, 694872.9713" Timestamp="192954" SynchronizedDateTime="2019-10-08 13:47:48:142" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694873.3917" Timestamp="193366" SynchronizedDateTime="2019-10-08 13:47:48:548" />
+  <TextData EyeFrameIndex="-1" Value="21, 1, 694874.1713" Timestamp="194152" SynchronizedDateTime="2019-10-08 13:47:49:344" />
+  <TextData EyeFrameIndex="-1" Value="22, 1, 694875.3713" Timestamp="195347" SynchronizedDateTime="2019-10-08 13:47:50:529" />
+  <TextData EyeFrameIndex="-1" Value="23, 1, 694876.5713" Timestamp="196545" SynchronizedDateTime="2019-10-08 13:47:51:731" />
+  <TextData EyeFrameIndex="-1" Value="24, 2, 694877.7713" Timestamp="197750" SynchronizedDateTime="2019-10-08 13:47:52:932" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694878.2392" Timestamp="198214" SynchronizedDateTime="2019-10-08 13:47:53:400" />
+  <TextData EyeFrameIndex="-1" Value="25, 1, 694878.9713" Timestamp="198954" SynchronizedDateTime="2019-10-08 13:47:54:149" />
+  <TextData EyeFrameIndex="-1" Value="26, 1, 694880.1713" Timestamp="200148" SynchronizedDateTime="2019-10-08 13:47:55:335" />
+  <TextData EyeFrameIndex="-1" Value="27, 1, 694881.3713" Timestamp="201348" SynchronizedDateTime="2019-10-08 13:47:56:537" />
+  <TextData EyeFrameIndex="-1" Value="28, 3, 694882.5713" Timestamp="202555" SynchronizedDateTime="2019-10-08 13:47:57:739" />
+  <TextData EyeFrameIndex="-1" Value="29, 1, 694883.7713" Timestamp="203747" SynchronizedDateTime="2019-10-08 13:47:58:940" />
+  <TextData EyeFrameIndex="-1" Value="30, 1, 694884.9713" Timestamp="204954" SynchronizedDateTime="2019-10-08 13:48:00:142" />
+  <TextData EyeFrameIndex="-1" Value="31, 1, 694886.1713" Timestamp="206145" SynchronizedDateTime="2019-10-08 13:48:01:329" />
+  <TextData EyeFrameIndex="-1" Value="32, 2, 694887.3713" Timestamp="207347" SynchronizedDateTime="2019-10-08 13:48:02:530" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694887.8718" Timestamp="207845" SynchronizedDateTime="2019-10-08 13:48:03:029" />
+  <TextData EyeFrameIndex="-1" Value="33, 1, 694888.5713" Timestamp="208545" SynchronizedDateTime="2019-10-08 13:48:03:731" />
+  <TextData EyeFrameIndex="-1" Value="34, 1, 694889.7713" Timestamp="209748" SynchronizedDateTime="2019-10-08 13:48:04:932" />
+  <TextData EyeFrameIndex="-1" Value="35, 1, 694890.9713" Timestamp="210964" SynchronizedDateTime="2019-10-08 13:48:06:149" />
+  <TextData EyeFrameIndex="-1" Value="36, 3, 694892.1713" Timestamp="212148" SynchronizedDateTime="2019-10-08 13:48:07:336" />
+  <TextData EyeFrameIndex="-1" Value="37, 1, 694893.3713" Timestamp="213352" SynchronizedDateTime="2019-10-08 13:48:08:537" />
+  <TextData EyeFrameIndex="-1" Value="38, 1, 694894.5713" Timestamp="214546" SynchronizedDateTime="2019-10-08 13:48:09:739" />
+  <TextData EyeFrameIndex="-1" Value="39, 67, 694895.7713" Timestamp="215744" SynchronizedDateTime="2019-10-08 13:48:10:940" />
+  <TextData EyeFrameIndex="-1" Value="40, 2, 694896.9713" Timestamp="216953" SynchronizedDateTime="2019-10-08 13:48:12:142" />
+  <TextData EyeFrameIndex="-1" Value="41, 1, 694898.1713" Timestamp="218147" SynchronizedDateTime="2019-10-08 13:48:13:328" />
+  <TextData EyeFrameIndex="-1" Value="42, 1, 694899.3713" Timestamp="219347" SynchronizedDateTime="2019-10-08 13:48:14:529" />
+  <TextData EyeFrameIndex="-1" Value="43, 1, 694900.5713" Timestamp="220546" SynchronizedDateTime="2019-10-08 13:48:15:731" />
+  <TextData EyeFrameIndex="-1" Value="44, 2, 694901.7713" Timestamp="221745" SynchronizedDateTime="2019-10-08 13:48:16:932" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694902.2238" Timestamp="222214" SynchronizedDateTime="2019-10-08 13:48:17:400" />
+  <TextData EyeFrameIndex="-1" Value="45, 1, 694902.9713" Timestamp="222949" SynchronizedDateTime="2019-10-08 13:48:18:133" />
+  <TextData EyeFrameIndex="-1" Value="46, 56, 694904.1713" Timestamp="224153" SynchronizedDateTime="2019-10-08 13:48:19:343" />
+  <TextData EyeFrameIndex="-1" Value="47, 1, 694905.3713" Timestamp="225344" SynchronizedDateTime="2019-10-08 13:48:20:529" />
+  <TextData EyeFrameIndex="-1" Value="48, 2, 694906.5713" Timestamp="226548" SynchronizedDateTime="2019-10-08 13:48:21:730" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694907.0393" Timestamp="227024" SynchronizedDateTime="2019-10-08 13:48:22:214" />
+  <TextData EyeFrameIndex="-1" Value="49, 1, 694907.7713" Timestamp="227756" SynchronizedDateTime="2019-10-08 13:48:22:947" />
+  <TextData EyeFrameIndex="-1" Value="50, 1, 694908.9713" Timestamp="228945" SynchronizedDateTime="2019-10-08 13:48:24:133" />
+  <TextData EyeFrameIndex="-1" Value="51, 1, 694910.1713" Timestamp="230151" SynchronizedDateTime="2019-10-08 13:48:25:336" />
+  <TextData EyeFrameIndex="-1" Value="52, 3, 694911.3713" Timestamp="231351" SynchronizedDateTime="2019-10-08 13:48:26:537" />
+  <TextData EyeFrameIndex="-1" Value="53, 1, 694912.5713" Timestamp="232549" SynchronizedDateTime="2019-10-08 13:48:27:739" />
+  <TextData EyeFrameIndex="-1" Value="54, 1, 694913.7713" Timestamp="233754" SynchronizedDateTime="2019-10-08 13:48:28:940" />
+  <TextData EyeFrameIndex="-1" Value="55, 1, 694914.9713" Timestamp="234956" SynchronizedDateTime="2019-10-08 13:48:30:141" />
+  <TextData EyeFrameIndex="-1" Value="56, 2, 694916.1713" Timestamp="236147" SynchronizedDateTime="2019-10-08 13:48:31:344" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694916.6403" Timestamp="236614" SynchronizedDateTime="2019-10-08 13:48:31:796" />
+  <TextData EyeFrameIndex="-1" Value="57, 1, 694917.3713" Timestamp="237346" SynchronizedDateTime="2019-10-08 13:48:32:529" />
+  <TextData EyeFrameIndex="-1" Value="58, 1, 694918.5713" Timestamp="238548" SynchronizedDateTime="2019-10-08 13:48:33:730" />
+  <TextData EyeFrameIndex="-1" Value="59, 1, 694919.7713" Timestamp="239745" SynchronizedDateTime="2019-10-08 13:48:34:932" />
+  <TextData EyeFrameIndex="-1" Value="60, 16, 694920.9713" Timestamp="240945" SynchronizedDateTime="2019-10-08 13:48:36:133" />
+  <TextData EyeFrameIndex="-1" Value="61, 1, 694922.1713" Timestamp="242148" SynchronizedDateTime="2019-10-08 13:48:37:335" />
+  <TextData EyeFrameIndex="-1" Value="62, 1, 694923.3713" Timestamp="243345" SynchronizedDateTime="2019-10-08 13:48:38:536" />
+  <TextData EyeFrameIndex="-1" Value="63, 1, 694924.5713" Timestamp="244545" SynchronizedDateTime="2019-10-08 13:48:39:738" />
+  <TextData EyeFrameIndex="-1" Value="64, 77, 694925.7713" Timestamp="245745" SynchronizedDateTime="2019-10-08 13:48:40:940" />
+  <TextData EyeFrameIndex="-1" Value="65, 1, 694926.9713" Timestamp="246954" SynchronizedDateTime="2019-10-08 13:48:42:141" />
+  <TextData EyeFrameIndex="-1" Value="66, 1, 694928.1713" Timestamp="248147" SynchronizedDateTime="2019-10-08 13:48:43:342" />
+  <TextData EyeFrameIndex="-1" Value="67, 1, 694929.3713" Timestamp="249367" SynchronizedDateTime="2019-10-08 13:48:44:559" />
+  <TextData EyeFrameIndex="-1" Value="68, 2, 694930.5713" Timestamp="250553" SynchronizedDateTime="2019-10-08 13:48:45:745" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694931.0399" Timestamp="251022" SynchronizedDateTime="2019-10-08 13:48:46:213" />
+  <TextData EyeFrameIndex="-1" Value="69, 1, 694931.7713" Timestamp="251754" SynchronizedDateTime="2019-10-08 13:48:46:947" />
+  <TextData EyeFrameIndex="-1" Value="70, 1, 694932.9713" Timestamp="252947" SynchronizedDateTime="2019-10-08 13:48:48:132" />
+  <TextData EyeFrameIndex="-1" Value="71, 1, 694934.1713" Timestamp="254153" SynchronizedDateTime="2019-10-08 13:48:49:350" />
+  <TextData EyeFrameIndex="-1" Value="72, 2, 694935.3713" Timestamp="255360" SynchronizedDateTime="2019-10-08 13:48:50:551" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694935.8395" Timestamp="255814" SynchronizedDateTime="2019-10-08 13:48:51:004" />
+  <TextData EyeFrameIndex="-1" Value="73, 1, 694936.5713" Timestamp="256545" SynchronizedDateTime="2019-10-08 13:48:51:739" />
+  <TextData EyeFrameIndex="-1" Value="74, 1, 694937.7713" Timestamp="257747" SynchronizedDateTime="2019-10-08 13:48:52:941" />
+  <TextData EyeFrameIndex="-1" Value="75, 1, 694938.9713" Timestamp="258946" SynchronizedDateTime="2019-10-08 13:48:54:143" />
+  <TextData EyeFrameIndex="-1" Value="76, 2, 694940.1713" Timestamp="260146" SynchronizedDateTime="2019-10-08 13:48:55:329" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694940.5595" Timestamp="260541" SynchronizedDateTime="2019-10-08 13:48:55:734" />
+  <TextData EyeFrameIndex="-1" Value="77, 14, 694941.3713" Timestamp="261345" SynchronizedDateTime="2019-10-08 13:48:56:530" />
+  <TextData EyeFrameIndex="-1" Value="78, 52, 694942.5713" Timestamp="262554" SynchronizedDateTime="2019-10-08 13:48:57:747" />
+  <TextData EyeFrameIndex="-1" Value="79, 1, 694943.7713" Timestamp="263748" SynchronizedDateTime="2019-10-08 13:48:58:932" />
+  <TextData EyeFrameIndex="-1" Value="80, 3, 694944.9713" Timestamp="264948" SynchronizedDateTime="2019-10-08 13:49:00:134" />
+  <TextData EyeFrameIndex="-1" Value="81, 1, 694946.1713" Timestamp="266147" SynchronizedDateTime="2019-10-08 13:49:01:336" />
+  <TextData EyeFrameIndex="-1" Value="82, 1, 694947.3713" Timestamp="267345" SynchronizedDateTime="2019-10-08 13:49:02:537" />
+  <TextData EyeFrameIndex="-1" Value="83, 1, 694948.5713" Timestamp="268546" SynchronizedDateTime="2019-10-08 13:49:03:739" />
+  <TextData EyeFrameIndex="-1" Value="84, 2, 694949.7713" Timestamp="269759" SynchronizedDateTime="2019-10-08 13:49:04:956" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694950.1752" Timestamp="270156" SynchronizedDateTime="2019-10-08 13:49:05:346" />
+  <TextData EyeFrameIndex="-1" Value="85, 1, 694950.9713" Timestamp="270950" SynchronizedDateTime="2019-10-08 13:49:06:142" />
+  <TextData EyeFrameIndex="-1" Value="86, 1, 694952.1713" Timestamp="272148" SynchronizedDateTime="2019-10-08 13:49:07:345" />
+  <TextData EyeFrameIndex="-1" Value="87, 32, 694953.3713" Timestamp="273345" SynchronizedDateTime="2019-10-08 13:49:08:530" />
+  <TextData EyeFrameIndex="-1" Value="88, 2, 694954.5713" Timestamp="274558" SynchronizedDateTime="2019-10-08 13:49:09:747" />
+  <TextData EyeFrameIndex="-1" Value="89, 1, 694955.7713" Timestamp="275747" SynchronizedDateTime="2019-10-08 13:49:10:933" />
+  <TextData EyeFrameIndex="-1" Value="90, 1, 694956.9713" Timestamp="276958" SynchronizedDateTime="2019-10-08 13:49:12:150" />
+  <TextData EyeFrameIndex="-1" Value="91, 1, 694958.1713" Timestamp="278146" SynchronizedDateTime="2019-10-08 13:49:13:336" />
+  <TextData EyeFrameIndex="-1" Value="92, 2, 694959.3713" Timestamp="279347" SynchronizedDateTime="2019-10-08 13:49:14:537" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694959.9833" Timestamp="279958" SynchronizedDateTime="2019-10-08 13:49:15:146" />
+  <TextData EyeFrameIndex="-1" Value="93, 1, 694960.5713" Timestamp="280546" SynchronizedDateTime="2019-10-08 13:49:15:740" />
+  <TextData EyeFrameIndex="-1" Value="94, 1, 694961.7713" Timestamp="281749" SynchronizedDateTime="2019-10-08 13:49:16:941" />
+  <TextData EyeFrameIndex="-1" Value="95, 1, 694962.9713" Timestamp="282962" SynchronizedDateTime="2019-10-08 13:49:18:158" />
+  <TextData EyeFrameIndex="-1" Value="96, 3, 694964.1713" Timestamp="284158" SynchronizedDateTime="2019-10-08 13:49:19:344" />
+  <TextData EyeFrameIndex="-1" Value="97, 1, 694965.3713" Timestamp="285405" SynchronizedDateTime="2019-10-08 13:49:20:592" />
+  <TextData EyeFrameIndex="-1" Value="98, 43, 694966.5713" Timestamp="286562" SynchronizedDateTime="2019-10-08 13:49:21:747" />
+  <TextData EyeFrameIndex="-1" Value="99, 1, 694967.7713" Timestamp="287760" SynchronizedDateTime="2019-10-08 13:49:22:948" />
+  <TextData EyeFrameIndex="-1" Value="100, 89, 694968.9713" Timestamp="288958" SynchronizedDateTime="2019-10-08 13:49:24:149" />
+  <TextData EyeFrameIndex="-1" Value="101, 1, 694970.1713" Timestamp="290146" SynchronizedDateTime="2019-10-08 13:49:25:336" />
+  <TextData EyeFrameIndex="-1" Value="102, 1, 694971.3713" Timestamp="291350" SynchronizedDateTime="2019-10-08 13:49:26:537" />
+  <TextData EyeFrameIndex="-1" Value="103, 1, 694972.5713" Timestamp="292554" SynchronizedDateTime="2019-10-08 13:49:27:739" />
+  <TextData EyeFrameIndex="-1" Value="104, 2, 694973.7713" Timestamp="293757" SynchronizedDateTime="2019-10-08 13:49:28:956" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694974.208" Timestamp="294183" SynchronizedDateTime="2019-10-08 13:49:29:377" />
+  <TextData EyeFrameIndex="-1" Value="105, 37, 694974.9713" Timestamp="294952" SynchronizedDateTime="2019-10-08 13:49:30:141" />
+  <TextData EyeFrameIndex="-1" Value="106, 1, 694976.1713" Timestamp="296157" SynchronizedDateTime="2019-10-08 13:49:31:343" />
+  <TextData EyeFrameIndex="-1" Value="107, 1, 694977.3713" Timestamp="297347" SynchronizedDateTime="2019-10-08 13:49:32:544" />
+  <TextData EyeFrameIndex="-1" Value="108, 3, 694978.5713" Timestamp="298547" SynchronizedDateTime="2019-10-08 13:49:33:746" />
+  <TextData EyeFrameIndex="-1" Value="109, 1, 694979.7713" Timestamp="299747" SynchronizedDateTime="2019-10-08 13:49:34:932" />
+  <TextData EyeFrameIndex="-1" Value="110, 1, 694980.9713" Timestamp="300952" SynchronizedDateTime="2019-10-08 13:49:36:148" />
+  <TextData EyeFrameIndex="-1" Value="111, 1, 694982.1713" Timestamp="302149" SynchronizedDateTime="2019-10-08 13:49:37:335" />
+  <TextData EyeFrameIndex="-1" Value="112, 2, 694983.3713" Timestamp="303352" SynchronizedDateTime="2019-10-08 13:49:38:537" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694983.8551" Timestamp="303839" SynchronizedDateTime="2019-10-08 13:49:39:036" />
+  <TextData EyeFrameIndex="-1" Value="113, 73, 694984.5713" Timestamp="304546" SynchronizedDateTime="2019-10-08 13:49:39:739" />
+  <TextData EyeFrameIndex="-1" Value="114, 1, 694985.7713" Timestamp="305747" SynchronizedDateTime="2019-10-08 13:49:40:941" />
+  <TextData EyeFrameIndex="-1" Value="115, 1, 694986.9713" Timestamp="306946" SynchronizedDateTime="2019-10-08 13:49:42:142" />
+  <TextData EyeFrameIndex="-1" Value="116, 3, 694988.1713" Timestamp="308157" SynchronizedDateTime="2019-10-08 13:49:43:343" />
+  <TextData EyeFrameIndex="-1" Value="117, 1, 694989.3713" Timestamp="309361" SynchronizedDateTime="2019-10-08 13:49:44:560" />
+  <TextData EyeFrameIndex="-1" Value="118, 1, 694990.5713" Timestamp="310555" SynchronizedDateTime="2019-10-08 13:49:45:747" />
+  <TextData EyeFrameIndex="-1" Value="119, 1, 694991.7713" Timestamp="311745" SynchronizedDateTime="2019-10-08 13:49:46:932" />
+  <TextData EyeFrameIndex="-1" Value="120, 2, 694992.9713" Timestamp="312947" SynchronizedDateTime="2019-10-08 13:49:48:133" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 694993.3433" Timestamp="313327" SynchronizedDateTime="2019-10-08 13:49:48:524" />
+  <TextData EyeFrameIndex="-1" Value="121, 1, 694994.1713" Timestamp="314158" SynchronizedDateTime="2019-10-08 13:49:49:351" />
+  <TextData EyeFrameIndex="-1" Value="122, 1, 694995.3713" Timestamp="315345" SynchronizedDateTime="2019-10-08 13:49:50:537" />
+  <TextData EyeFrameIndex="-1" Value="123, 1, 694996.5713" Timestamp="316549" SynchronizedDateTime="2019-10-08 13:49:51:739" />
+  <TextData EyeFrameIndex="-1" Value="124, 3, 694997.7713" Timestamp="317750" SynchronizedDateTime="2019-10-08 13:49:52:940" />
+  <TextData EyeFrameIndex="-1" Value="125, 42, 694998.9713" Timestamp="318954" SynchronizedDateTime="2019-10-08 13:49:54:141" />
+  <TextData EyeFrameIndex="-1" Value="126, 1, 695000.1713" Timestamp="320148" SynchronizedDateTime="2019-10-08 13:49:55:344" />
+  <TextData EyeFrameIndex="-1" Value="127, 38, 695001.3713" Timestamp="321349" SynchronizedDateTime="2019-10-08 13:49:56:545" />
+  <TextData EyeFrameIndex="-1" Value="128, 2, 695002.5713" Timestamp="322553" SynchronizedDateTime="2019-10-08 13:49:57:746" />
+  <TextData EyeFrameIndex="-1" Value="129, 1, 695003.7713" Timestamp="323758" SynchronizedDateTime="2019-10-08 13:49:58:947" />
+  <TextData EyeFrameIndex="-1" Value="130, 1, 695004.9713" Timestamp="324950" SynchronizedDateTime="2019-10-08 13:50:00:148" />
+  <TextData EyeFrameIndex="-1" Value="131, 90, 695006.1713" Timestamp="326154" SynchronizedDateTime="2019-10-08 13:50:01:352" />
+  <TextData EyeFrameIndex="-1" Value="132, 2, 695007.3713" Timestamp="327346" SynchronizedDateTime="2019-10-08 13:50:02:537" />
+  <TextData EyeFrameIndex="-1" Value="133, 1, 695008.5713" Timestamp="328548" SynchronizedDateTime="2019-10-08 13:50:03:739" />
+  <TextData EyeFrameIndex="-1" Value="134, 1, 695009.7713" Timestamp="329745" SynchronizedDateTime="2019-10-08 13:50:04:941" />
+  <TextData EyeFrameIndex="-1" Value="135, 1, 695010.9713" Timestamp="330946" SynchronizedDateTime="2019-10-08 13:50:06:142" />
+  <TextData EyeFrameIndex="-1" Value="136, 3, 695012.1713" Timestamp="332146" SynchronizedDateTime="2019-10-08 13:50:07:343" />
+  <TextData EyeFrameIndex="-1" Value="137, 1, 695013.3713" Timestamp="333345" SynchronizedDateTime="2019-10-08 13:50:08:544" />
+  <TextData EyeFrameIndex="-1" Value="138, 1, 695014.5713" Timestamp="334550" SynchronizedDateTime="2019-10-08 13:50:09:746" />
+  <TextData EyeFrameIndex="-1" Value="139, 1, 695015.7713" Timestamp="335748" SynchronizedDateTime="2019-10-08 13:50:10:948" />
+  <TextData EyeFrameIndex="-1" Value="140, 3, 695016.9713" Timestamp="336947" SynchronizedDateTime="2019-10-08 13:50:12:133" />
+  <TextData EyeFrameIndex="-1" Value="141, 1, 695018.1713" Timestamp="338150" SynchronizedDateTime="2019-10-08 13:50:13:335" />
+  <TextData EyeFrameIndex="-1" Value="142, 1, 695019.3713" Timestamp="339347" SynchronizedDateTime="2019-10-08 13:50:14:537" />
+  <TextData EyeFrameIndex="-1" Value="143, 1, 695020.5713" Timestamp="340548" SynchronizedDateTime="2019-10-08 13:50:15:739" />
+  <TextData EyeFrameIndex="-1" Value="144, 3, 695021.7713" Timestamp="341745" SynchronizedDateTime="2019-10-08 13:50:16:940" />
+  <TextData EyeFrameIndex="-1" Value="145, 1, 695022.9713" Timestamp="342954" SynchronizedDateTime="2019-10-08 13:50:18:141" />
+  <TextData EyeFrameIndex="-1" Value="146, 1, 695024.1713" Timestamp="344152" SynchronizedDateTime="2019-10-08 13:50:19:342" />
+  <TextData EyeFrameIndex="-1" Value="147, 81, 695025.3713" Timestamp="345355" SynchronizedDateTime="2019-10-08 13:50:20:544" />
+  <TextData EyeFrameIndex="-1" Value="148, 2, 695026.5713" Timestamp="346546" SynchronizedDateTime="2019-10-08 13:50:21:746" />
+  <TextData EyeFrameIndex="-1" Value="149, 1, 695027.7713" Timestamp="347747" SynchronizedDateTime="2019-10-08 13:50:22:931" />
+  <TextData EyeFrameIndex="-1" Value="150, 1, 695028.9713" Timestamp="348945" SynchronizedDateTime="2019-10-08 13:50:24:133" />
+  <TextData EyeFrameIndex="-1" Value="151, 1, 695030.1713" Timestamp="350162" SynchronizedDateTime="2019-10-08 13:50:25:350" />
+  <TextData EyeFrameIndex="-1" Value="152, 3, 695031.3713" Timestamp="351345" SynchronizedDateTime="2019-10-08 13:50:26:536" />
+  <TextData EyeFrameIndex="-1" Value="153, 1, 695032.5713" Timestamp="352547" SynchronizedDateTime="2019-10-08 13:50:27:738" />
+  <TextData EyeFrameIndex="-1" Value="154, 1, 695033.7713" Timestamp="353746" SynchronizedDateTime="2019-10-08 13:50:28:939" />
+  <TextData EyeFrameIndex="-1" Value="155, 1, 695034.9713" Timestamp="354949" SynchronizedDateTime="2019-10-08 13:50:30:141" />
+  <TextData EyeFrameIndex="-1" Value="156, 2, 695036.1713" Timestamp="356161" SynchronizedDateTime="2019-10-08 13:50:31:358" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695036.6238" Timestamp="356603" SynchronizedDateTime="2019-10-08 13:50:31:795" />
+  <TextData EyeFrameIndex="-1" Value="157, 1, 695037.3713" Timestamp="357347" SynchronizedDateTime="2019-10-08 13:50:32:544" />
+  <TextData EyeFrameIndex="-1" Value="158, 1, 695038.5713" Timestamp="358546" SynchronizedDateTime="2019-10-08 13:50:33:732" />
+  <TextData EyeFrameIndex="-1" Value="159, 1, 695039.7713" Timestamp="359749" SynchronizedDateTime="2019-10-08 13:50:34:948" />
+  <TextData EyeFrameIndex="-1" Value="160, 2, 695040.9713" Timestamp="360945" SynchronizedDateTime="2019-10-08 13:50:36:134" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695041.4715" Timestamp="361451" SynchronizedDateTime="2019-10-08 13:50:36:650" />
+  <TextData EyeFrameIndex="-1" Value="Start time for block 2: 695051.6381" Timestamp="371617" SynchronizedDateTime="2019-10-08 13:50:46:806" />
+  <TextData EyeFrameIndex="-1" Value="1, 23, 695052.8381" Timestamp="372825" SynchronizedDateTime="2019-10-08 13:50:48:023" />
+  <TextData EyeFrameIndex="-1" Value="2, 1, 695054.0381" Timestamp="374014" SynchronizedDateTime="2019-10-08 13:50:49:210" />
+  <TextData EyeFrameIndex="-1" Value="3, 86, 695055.2381" Timestamp="375225" SynchronizedDateTime="2019-10-08 13:50:50:411" />
+  <TextData EyeFrameIndex="-1" Value="4, 2, 695056.4381" Timestamp="376425" SynchronizedDateTime="2019-10-08 13:50:51:613" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695057.1033" Timestamp="377087" SynchronizedDateTime="2019-10-08 13:50:52:284" />
+  <TextData EyeFrameIndex="-1" Value="5, 1, 695057.6381" Timestamp="377625" SynchronizedDateTime="2019-10-08 13:50:52:814" />
+  <TextData EyeFrameIndex="-1" Value="6, 1, 695058.8381" Timestamp="378815" SynchronizedDateTime="2019-10-08 13:50:54:016" />
+  <TextData EyeFrameIndex="-1" Value="7, 1, 695060.0381" Timestamp="380013" SynchronizedDateTime="2019-10-08 13:50:55:201" />
+  <TextData EyeFrameIndex="-1" Value="8, 2, 695061.2381" Timestamp="381212" SynchronizedDateTime="2019-10-08 13:50:56:402" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695061.8392" Timestamp="381817" SynchronizedDateTime="2019-10-08 13:50:57:011" />
+  <TextData EyeFrameIndex="-1" Value="9, 1, 695062.4381" Timestamp="382416" SynchronizedDateTime="2019-10-08 13:50:57:605" />
+  <TextData EyeFrameIndex="-1" Value="10, 1, 695063.6381" Timestamp="383622" SynchronizedDateTime="2019-10-08 13:50:58:821" />
+  <TextData EyeFrameIndex="-1" Value="11, 1, 695064.8381" Timestamp="384815" SynchronizedDateTime="2019-10-08 13:51:00:007" />
+  <TextData EyeFrameIndex="-1" Value="12, 47, 695066.0381" Timestamp="386056" SynchronizedDateTime="2019-10-08 13:51:01:256" />
+  <TextData EyeFrameIndex="-1" Value="13, 1, 695067.2381" Timestamp="387216" SynchronizedDateTime="2019-10-08 13:51:02:410" />
+  <TextData EyeFrameIndex="-1" Value="14, 1, 695068.4381" Timestamp="388412" SynchronizedDateTime="2019-10-08 13:51:03:612" />
+  <TextData EyeFrameIndex="-1" Value="15, 1, 695069.6381" Timestamp="389623" SynchronizedDateTime="2019-10-08 13:51:04:813" />
+  <TextData EyeFrameIndex="-1" Value="16, 2, 695070.8381" Timestamp="390812" SynchronizedDateTime="2019-10-08 13:51:05:998" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695071.3598" Timestamp="391336" SynchronizedDateTime="2019-10-08 13:51:06:530" />
+  <TextData EyeFrameIndex="-1" Value="17, 1, 695072.0381" Timestamp="392022" SynchronizedDateTime="2019-10-08 13:51:07:216" />
+  <TextData EyeFrameIndex="-1" Value="18, 1, 695073.2381" Timestamp="393245" SynchronizedDateTime="2019-10-08 13:51:08:433" />
+  <TextData EyeFrameIndex="-1" Value="19, 1, 695074.4381" Timestamp="394414" SynchronizedDateTime="2019-10-08 13:51:09:604" />
+  <TextData EyeFrameIndex="-1" Value="20, 2, 695075.6381" Timestamp="395613" SynchronizedDateTime="2019-10-08 13:51:10:805" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695076.2237" Timestamp="396205" SynchronizedDateTime="2019-10-08 13:51:11:398" />
+  <TextData EyeFrameIndex="-1" Value="21, 26, 695076.8381" Timestamp="396824" SynchronizedDateTime="2019-10-08 13:51:12:022" />
+  <TextData EyeFrameIndex="-1" Value="22, 1, 695078.0381" Timestamp="398022" SynchronizedDateTime="2019-10-08 13:51:13:209" />
+  <TextData EyeFrameIndex="-1" Value="23, 1, 695079.2381" Timestamp="399228" SynchronizedDateTime="2019-10-08 13:51:14:425" />
+  <TextData EyeFrameIndex="-1" Value="24, 2, 695080.4381" Timestamp="400421" SynchronizedDateTime="2019-10-08 13:51:15:611" />
+  <TextData EyeFrameIndex="-1" Value="25, 1, 695081.6381" Timestamp="401615" SynchronizedDateTime="2019-10-08 13:51:16:812" />
+  <TextData EyeFrameIndex="-1" Value="26, 1, 695082.8381" Timestamp="402817" SynchronizedDateTime="2019-10-08 13:51:18:013" />
+  <TextData EyeFrameIndex="-1" Value="27, 46, 695084.0381" Timestamp="404021" SynchronizedDateTime="2019-10-08 13:51:19:216" />
+  <TextData EyeFrameIndex="-1" Value="28, 2, 695085.2381" Timestamp="405219" SynchronizedDateTime="2019-10-08 13:51:20:417" />
+  <TextData EyeFrameIndex="-1" Value="29, 1, 695086.4381" Timestamp="406418" SynchronizedDateTime="2019-10-08 13:51:21:619" />
+  <TextData EyeFrameIndex="-1" Value="30, 1, 695087.6381" Timestamp="407613" SynchronizedDateTime="2019-10-08 13:51:22:805" />
+  <TextData EyeFrameIndex="-1" Value="31, 1, 695088.8381" Timestamp="408830" SynchronizedDateTime="2019-10-08 13:51:24:021" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695089.3274" Timestamp="409306" SynchronizedDateTime="2019-10-08 13:51:24:506" />
+  <TextData EyeFrameIndex="-1" Value="32, 2, 695090.0381" Timestamp="410020" SynchronizedDateTime="2019-10-08 13:51:25:208" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695090.6396" Timestamp="410619" SynchronizedDateTime="2019-10-08 13:51:25:816" />
+  <TextData EyeFrameIndex="-1" Value="33, 1, 695091.2381" Timestamp="411219" SynchronizedDateTime="2019-10-08 13:51:26:409" />
+  <TextData EyeFrameIndex="-1" Value="34, 1, 695092.4381" Timestamp="412413" SynchronizedDateTime="2019-10-08 13:51:27:610" />
+  <TextData EyeFrameIndex="-1" Value="35, 1, 695093.6381" Timestamp="413612" SynchronizedDateTime="2019-10-08 13:51:28:812" />
+  <TextData EyeFrameIndex="-1" Value="36, 2, 695094.8381" Timestamp="414910" SynchronizedDateTime="2019-10-08 13:51:30:106" />
+  <TextData EyeFrameIndex="-1" Value="37, 1, 695096.0381" Timestamp="416051" SynchronizedDateTime="2019-10-08 13:51:31:246" />
+  <TextData EyeFrameIndex="-1" Value="38, 1, 695097.2381" Timestamp="417307" SynchronizedDateTime="2019-10-08 13:51:32:494" />
+  <TextData EyeFrameIndex="-1" Value="39, 1, 695098.4381" Timestamp="418414" SynchronizedDateTime="2019-10-08 13:51:33:603" />
+  <TextData EyeFrameIndex="-1" Value="40, 2, 695099.6381" Timestamp="419613" SynchronizedDateTime="2019-10-08 13:51:34:804" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695100.4642" Timestamp="420441" SynchronizedDateTime="2019-10-08 13:51:35:631" />
+  <TextData EyeFrameIndex="-1" Value="41, 1, 695100.8381" Timestamp="420813" SynchronizedDateTime="2019-10-08 13:51:36:005" />
+  <TextData EyeFrameIndex="-1" Value="42, 1, 695102.0381" Timestamp="422025" SynchronizedDateTime="2019-10-08 13:51:37:223" />
+  <TextData EyeFrameIndex="-1" Value="43, 1, 695103.2381" Timestamp="423227" SynchronizedDateTime="2019-10-08 13:51:38:425" />
+  <TextData EyeFrameIndex="-1" Value="44, 2, 695104.4381" Timestamp="424435" SynchronizedDateTime="2019-10-08 13:51:39:627" />
+  <TextData EyeFrameIndex="-1" Value="45, 1, 695105.6381" Timestamp="425619" SynchronizedDateTime="2019-10-08 13:51:40:812" />
+  <TextData EyeFrameIndex="-1" Value="46, 1, 695106.8381" Timestamp="426818" SynchronizedDateTime="2019-10-08 13:51:42:013" />
+  <TextData EyeFrameIndex="-1" Value="47, 1, 695108.0381" Timestamp="428025" SynchronizedDateTime="2019-10-08 13:51:43:216" />
+  <TextData EyeFrameIndex="-1" Value="48, 2, 695109.2381" Timestamp="429228" SynchronizedDateTime="2019-10-08 13:51:44:432" />
+  <TextData EyeFrameIndex="-1" Value="49, 1, 695110.4381" Timestamp="430414" SynchronizedDateTime="2019-10-08 13:51:45:603" />
+  <TextData EyeFrameIndex="-1" Value="50, 1, 695111.6381" Timestamp="431614" SynchronizedDateTime="2019-10-08 13:51:46:805" />
+  <TextData EyeFrameIndex="-1" Value="51, 1, 695112.8381" Timestamp="432813" SynchronizedDateTime="2019-10-08 13:51:48:006" />
+  <TextData EyeFrameIndex="-1" Value="52, 2, 695114.0381" Timestamp="434024" SynchronizedDateTime="2019-10-08 13:51:49:224" />
+  <TextData EyeFrameIndex="-1" Value="53, 1, 695115.2381" Timestamp="435219" SynchronizedDateTime="2019-10-08 13:51:50:409" />
+  <TextData EyeFrameIndex="-1" Value="54, 1, 695116.4381" Timestamp="436416" SynchronizedDateTime="2019-10-08 13:51:51:610" />
+  <TextData EyeFrameIndex="-1" Value="55, 1, 695117.6381" Timestamp="437613" SynchronizedDateTime="2019-10-08 13:51:52:812" />
+  <TextData EyeFrameIndex="-1" Value="56, 2, 695118.8381" Timestamp="438820" SynchronizedDateTime="2019-10-08 13:51:54:013" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695119.455" Timestamp="439439" SynchronizedDateTime="2019-10-08 13:51:54:638" />
+  <TextData EyeFrameIndex="-1" Value="57, 1, 695120.0381" Timestamp="440014" SynchronizedDateTime="2019-10-08 13:51:55:215" />
+  <TextData EyeFrameIndex="-1" Value="58, 1, 695121.2381" Timestamp="441233" SynchronizedDateTime="2019-10-08 13:51:56:432" />
+  <TextData EyeFrameIndex="-1" Value="59, 1, 695122.4381" Timestamp="442420" SynchronizedDateTime="2019-10-08 13:51:57:618" />
+  <TextData EyeFrameIndex="-1" Value="60, 3, 695123.6381" Timestamp="443619" SynchronizedDateTime="2019-10-08 13:51:58:820" />
+  <TextData EyeFrameIndex="-1" Value="61, 1, 695124.8381" Timestamp="444813" SynchronizedDateTime="2019-10-08 13:52:00:005" />
+  <TextData EyeFrameIndex="-1" Value="62, 1, 695126.0381" Timestamp="446024" SynchronizedDateTime="2019-10-08 13:52:01:222" />
+  <TextData EyeFrameIndex="-1" Value="63, 1, 695127.2381" Timestamp="447215" SynchronizedDateTime="2019-10-08 13:52:02:408" />
+  <TextData EyeFrameIndex="-1" Value="64, 2, 695128.4381" Timestamp="448414" SynchronizedDateTime="2019-10-08 13:52:03:610" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695128.8952" Timestamp="448870" SynchronizedDateTime="2019-10-08 13:52:04:062" />
+  <TextData EyeFrameIndex="-1" Value="65, 1, 695129.6381" Timestamp="449610" SynchronizedDateTime="2019-10-08 13:52:04:811" />
+  <TextData EyeFrameIndex="-1" Value="66, 1, 695130.8381" Timestamp="450811" SynchronizedDateTime="2019-10-08 13:52:06:012" />
+  <TextData EyeFrameIndex="-1" Value="67, 1, 695132.0381" Timestamp="452010" SynchronizedDateTime="2019-10-08 13:52:07:199" />
+  <TextData EyeFrameIndex="-1" Value="68, 2, 695133.2381" Timestamp="453212" SynchronizedDateTime="2019-10-08 13:52:08:400" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695133.6957" Timestamp="453668" SynchronizedDateTime="2019-10-08 13:52:08:868" />
+  <TextData EyeFrameIndex="-1" Value="69, 1, 695134.4381" Timestamp="454410" SynchronizedDateTime="2019-10-08 13:52:09:602" />
+  <TextData EyeFrameIndex="-1" Value="70, 1, 695135.6381" Timestamp="455610" SynchronizedDateTime="2019-10-08 13:52:10:803" />
+  <TextData EyeFrameIndex="-1" Value="71, 1, 695136.8381" Timestamp="456811" SynchronizedDateTime="2019-10-08 13:52:12:005" />
+  <TextData EyeFrameIndex="-1" Value="72, 2, 695138.0381" Timestamp="458012" SynchronizedDateTime="2019-10-08 13:52:13:206" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695138.496" Timestamp="458473" SynchronizedDateTime="2019-10-08 13:52:13:674" />
+  <TextData EyeFrameIndex="-1" Value="73, 1, 695139.2381" Timestamp="459210" SynchronizedDateTime="2019-10-08 13:52:14:407" />
+  <TextData EyeFrameIndex="-1" Value="74, 66, 695140.4381" Timestamp="460419" SynchronizedDateTime="2019-10-08 13:52:15:610" />
+  <TextData EyeFrameIndex="-1" Value="75, 1, 695141.6381" Timestamp="461610" SynchronizedDateTime="2019-10-08 13:52:16:813" />
+  <TextData EyeFrameIndex="-1" Value="76, 3, 695142.8381" Timestamp="462811" SynchronizedDateTime="2019-10-08 13:52:17:999" />
+  <TextData EyeFrameIndex="-1" Value="77, 1, 695144.0381" Timestamp="464011" SynchronizedDateTime="2019-10-08 13:52:19:201" />
+  <TextData EyeFrameIndex="-1" Value="78, 1, 695145.2381" Timestamp="465211" SynchronizedDateTime="2019-10-08 13:52:20:402" />
+  <TextData EyeFrameIndex="-1" Value="79, 1, 695146.4381" Timestamp="466432" SynchronizedDateTime="2019-10-08 13:52:21:620" />
+  <TextData EyeFrameIndex="-1" Value="80, 45, 695147.6381" Timestamp="467610" SynchronizedDateTime="2019-10-08 13:52:22:806" />
+  <TextData EyeFrameIndex="-1" Value="81, 1, 695148.8381" Timestamp="468811" SynchronizedDateTime="2019-10-08 13:52:24:008" />
+  <TextData EyeFrameIndex="-1" Value="82, 1, 695150.0381" Timestamp="470010" SynchronizedDateTime="2019-10-08 13:52:25:210" />
+  <TextData EyeFrameIndex="-1" Value="83, 1, 695151.2381" Timestamp="471211" SynchronizedDateTime="2019-10-08 13:52:26:411" />
+  <TextData EyeFrameIndex="-1" Value="84, 2, 695152.4381" Timestamp="472411" SynchronizedDateTime="2019-10-08 13:52:27:613" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695152.975" Timestamp="472950" SynchronizedDateTime="2019-10-08 13:52:28:143" />
+  <TextData EyeFrameIndex="-1" Value="85, 1, 695153.6381" Timestamp="473610" SynchronizedDateTime="2019-10-08 13:52:28:814" />
+  <TextData EyeFrameIndex="-1" Value="86, 1, 695154.8381" Timestamp="474810" SynchronizedDateTime="2019-10-08 13:52:29:999" />
+  <TextData EyeFrameIndex="-1" Value="87, 1, 695156.0381" Timestamp="476011" SynchronizedDateTime="2019-10-08 13:52:31:203" />
+  <TextData EyeFrameIndex="-1" Value="88, 2, 695157.2381" Timestamp="477211" SynchronizedDateTime="2019-10-08 13:52:32:404" />
+  <TextData EyeFrameIndex="-1" Value="89, 1, 695158.4381" Timestamp="478413" SynchronizedDateTime="2019-10-08 13:52:33:606" />
+  <TextData EyeFrameIndex="-1" Value="90, 1, 695159.6381" Timestamp="479614" SynchronizedDateTime="2019-10-08 13:52:34:807" />
+  <TextData EyeFrameIndex="-1" Value="91, 1, 695160.8381" Timestamp="480810" SynchronizedDateTime="2019-10-08 13:52:36:008" />
+  <TextData EyeFrameIndex="-1" Value="92, 3, 695162.0381" Timestamp="482010" SynchronizedDateTime="2019-10-08 13:52:37:211" />
+  <TextData EyeFrameIndex="-1" Value="93, 1, 695163.2381" Timestamp="483212" SynchronizedDateTime="2019-10-08 13:52:38:412" />
+  <TextData EyeFrameIndex="-1" Value="94, 1, 695164.4381" Timestamp="484410" SynchronizedDateTime="2019-10-08 13:52:39:613" />
+  <TextData EyeFrameIndex="-1" Value="95, 34, 695165.6381" Timestamp="485612" SynchronizedDateTime="2019-10-08 13:52:40:814" />
+  <TextData EyeFrameIndex="-1" Value="96, 2, 695166.8381" Timestamp="486845" SynchronizedDateTime="2019-10-08 13:52:42:047" />
+  <TextData EyeFrameIndex="-1" Value="97, 1, 695168.0381" Timestamp="488038" SynchronizedDateTime="2019-10-08 13:52:43:233" />
+  <TextData EyeFrameIndex="-1" Value="98, 1, 695169.2381" Timestamp="489237" SynchronizedDateTime="2019-10-08 13:52:44:434" />
+  <TextData EyeFrameIndex="-1" Value="99, 1, 695170.4381" Timestamp="490485" SynchronizedDateTime="2019-10-08 13:52:45:683" />
+  <TextData EyeFrameIndex="-1" Value="100, 2, 695171.6381" Timestamp="491633" SynchronizedDateTime="2019-10-08 13:52:46:822" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695172.0799" Timestamp="492065" SynchronizedDateTime="2019-10-08 13:52:47:259" />
+  <TextData EyeFrameIndex="-1" Value="101, 1, 695172.8381" Timestamp="492835" SynchronizedDateTime="2019-10-08 13:52:48:039" />
+  <TextData EyeFrameIndex="-1" Value="102, 1, 695174.0381" Timestamp="494019" SynchronizedDateTime="2019-10-08 13:52:49:210" />
+  <TextData EyeFrameIndex="-1" Value="103, 1, 695175.2381" Timestamp="495214" SynchronizedDateTime="2019-10-08 13:52:50:411" />
+  <TextData EyeFrameIndex="-1" Value="104, 2, 695176.4381" Timestamp="496416" SynchronizedDateTime="2019-10-08 13:52:51:612" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695177.1035" Timestamp="497084" SynchronizedDateTime="2019-10-08 13:52:52:283" />
+  <TextData EyeFrameIndex="-1" Value="105, 1, 695177.6381" Timestamp="497624" SynchronizedDateTime="2019-10-08 13:52:52:814" />
+  <TextData EyeFrameIndex="-1" Value="106, 1, 695178.8381" Timestamp="498818" SynchronizedDateTime="2019-10-08 13:52:54:015" />
+  <TextData EyeFrameIndex="-1" Value="107, 1, 695180.0381" Timestamp="500019" SynchronizedDateTime="2019-10-08 13:52:55:217" />
+  <TextData EyeFrameIndex="-1" Value="108, 3, 695181.2381" Timestamp="501239" SynchronizedDateTime="2019-10-08 13:52:56:434" />
+  <TextData EyeFrameIndex="-1" Value="109, 1, 695182.4381" Timestamp="502417" SynchronizedDateTime="2019-10-08 13:52:57:620" />
+  <TextData EyeFrameIndex="-1" Value="110, 1, 695183.6381" Timestamp="503615" SynchronizedDateTime="2019-10-08 13:52:58:806" />
+  <TextData EyeFrameIndex="-1" Value="111, 1, 695184.8381" Timestamp="504814" SynchronizedDateTime="2019-10-08 13:53:00:007" />
+  <TextData EyeFrameIndex="-1" Value="112, 2, 695186.0381" Timestamp="506020" SynchronizedDateTime="2019-10-08 13:53:01:224" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695186.5432" Timestamp="506526" SynchronizedDateTime="2019-10-08 13:53:01:723" />
+  <TextData EyeFrameIndex="-1" Value="113, 1, 695187.2381" Timestamp="507213" SynchronizedDateTime="2019-10-08 13:53:02:410" />
+  <TextData EyeFrameIndex="-1" Value="114, 1, 695188.4381" Timestamp="508416" SynchronizedDateTime="2019-10-08 13:53:03:611" />
+  <TextData EyeFrameIndex="-1" Value="115, 1, 695189.6381" Timestamp="509627" SynchronizedDateTime="2019-10-08 13:53:04:828" />
+  <TextData EyeFrameIndex="-1" Value="116, 2, 695190.8381" Timestamp="510813" SynchronizedDateTime="2019-10-08 13:53:06:013" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695191.3918" Timestamp="511376" SynchronizedDateTime="2019-10-08 13:53:06:576" />
+  <TextData EyeFrameIndex="-1" Value="117, 1, 695192.0381" Timestamp="512020" SynchronizedDateTime="2019-10-08 13:53:07:215" />
+  <TextData EyeFrameIndex="-1" Value="118, 1, 695193.2381" Timestamp="513219" SynchronizedDateTime="2019-10-08 13:53:08:417" />
+  <TextData EyeFrameIndex="-1" Value="119, 1, 695194.4381" Timestamp="514417" SynchronizedDateTime="2019-10-08 13:53:09:618" />
+  <TextData EyeFrameIndex="-1" Value="120, 2, 695195.6381" Timestamp="515619" SynchronizedDateTime="2019-10-08 13:53:10:819" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695196.2071" Timestamp="516215" SynchronizedDateTime="2019-10-08 13:53:11:412" />
+  <TextData EyeFrameIndex="-1" Value="121, 1, 695196.8381" Timestamp="516831" SynchronizedDateTime="2019-10-08 13:53:12:036" />
+  <TextData EyeFrameIndex="-1" Value="122, 1, 695198.0381" Timestamp="518017" SynchronizedDateTime="2019-10-08 13:53:13:221" />
+  <TextData EyeFrameIndex="-1" Value="123, 1, 695199.2381" Timestamp="519228" SynchronizedDateTime="2019-10-08 13:53:14:423" />
+  <TextData EyeFrameIndex="-1" Value="124, 2, 695200.4381" Timestamp="520419" SynchronizedDateTime="2019-10-08 13:53:15:609" />
+  <TextData EyeFrameIndex="-1" Value="125, 1, 695201.6381" Timestamp="521619" SynchronizedDateTime="2019-10-08 13:53:16:810" />
+  <TextData EyeFrameIndex="-1" Value="126, 1, 695202.8381" Timestamp="522820" SynchronizedDateTime="2019-10-08 13:53:18:012" />
+  <TextData EyeFrameIndex="-1" Value="127, 1, 695204.0381" Timestamp="524019" SynchronizedDateTime="2019-10-08 13:53:19:214" />
+  <TextData EyeFrameIndex="-1" Value="128, 2, 695205.2381" Timestamp="525218" SynchronizedDateTime="2019-10-08 13:53:20:415" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695205.7911" Timestamp="525774" SynchronizedDateTime="2019-10-08 13:53:20:977" />
+  <TextData EyeFrameIndex="-1" Value="129, 1, 695206.4381" Timestamp="526420" SynchronizedDateTime="2019-10-08 13:53:21:617" />
+  <TextData EyeFrameIndex="-1" Value="130, 1, 695207.6381" Timestamp="527623" SynchronizedDateTime="2019-10-08 13:53:22:818" />
+  <TextData EyeFrameIndex="-1" Value="131, 1, 695208.8381" Timestamp="528815" SynchronizedDateTime="2019-10-08 13:53:24:006" />
+  <TextData EyeFrameIndex="-1" Value="132, 2, 695210.0381" Timestamp="530020" SynchronizedDateTime="2019-10-08 13:53:25:224" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695210.463" Timestamp="530440" SynchronizedDateTime="2019-10-08 13:53:25:645" />
+  <TextData EyeFrameIndex="-1" Value="133, 1, 695211.2381" Timestamp="531236" SynchronizedDateTime="2019-10-08 13:53:26:441" />
+  <TextData EyeFrameIndex="-1" Value="134, 1, 695212.4381" Timestamp="532428" SynchronizedDateTime="2019-10-08 13:53:27:627" />
+  <TextData EyeFrameIndex="-1" Value="135, 1, 695213.6381" Timestamp="533619" SynchronizedDateTime="2019-10-08 13:53:28:813" />
+  <TextData EyeFrameIndex="-1" Value="136, 3, 695214.8381" Timestamp="534825" SynchronizedDateTime="2019-10-08 13:53:30:030" />
+  <TextData EyeFrameIndex="-1" Value="137, 1, 695216.0381" Timestamp="536013" SynchronizedDateTime="2019-10-08 13:53:31:216" />
+  <TextData EyeFrameIndex="-1" Value="138, 1, 695217.2381" Timestamp="537225" SynchronizedDateTime="2019-10-08 13:53:32:418" />
+  <TextData EyeFrameIndex="-1" Value="139, 1, 695218.4381" Timestamp="538413" SynchronizedDateTime="2019-10-08 13:53:33:604" />
+  <TextData EyeFrameIndex="-1" Value="140, 2, 695219.6381" Timestamp="539622" SynchronizedDateTime="2019-10-08 13:53:34:821" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695220.1436" Timestamp="540125" SynchronizedDateTime="2019-10-08 13:53:35:320" />
+  <TextData EyeFrameIndex="-1" Value="141, 1, 695220.8381" Timestamp="540816" SynchronizedDateTime="2019-10-08 13:53:36:007" />
+  <TextData EyeFrameIndex="-1" Value="142, 74, 695222.0381" Timestamp="542016" SynchronizedDateTime="2019-10-08 13:53:37:208" />
+  <TextData EyeFrameIndex="-1" Value="143, 1, 695223.2381" Timestamp="543214" SynchronizedDateTime="2019-10-08 13:53:38:409" />
+  <TextData EyeFrameIndex="-1" Value="144, 2, 695224.4381" Timestamp="544416" SynchronizedDateTime="2019-10-08 13:53:39:612" />
+  <TextData EyeFrameIndex="-1" Value="145, 1, 695225.6381" Timestamp="545614" SynchronizedDateTime="2019-10-08 13:53:40:813" />
+  <TextData EyeFrameIndex="-1" Value="146, 1, 695226.8381" Timestamp="546815" SynchronizedDateTime="2019-10-08 13:53:42:015" />
+  <TextData EyeFrameIndex="-1" Value="147, 1, 695228.0381" Timestamp="548014" SynchronizedDateTime="2019-10-08 13:53:43:217" />
+  <TextData EyeFrameIndex="-1" Value="148, 3, 695229.2381" Timestamp="549217" SynchronizedDateTime="2019-10-08 13:53:44:418" />
+  <TextData EyeFrameIndex="-1" Value="149, 1, 695230.4381" Timestamp="550419" SynchronizedDateTime="2019-10-08 13:53:45:620" />
+  <TextData EyeFrameIndex="-1" Value="150, 1, 695231.6381" Timestamp="552249" SynchronizedDateTime="2019-10-08 13:53:47:445" />
+  <TextData EyeFrameIndex="-1" Value="151, 1, 695232.8381" Timestamp="552818" SynchronizedDateTime="2019-10-08 13:53:48:023" />
+  <TextData EyeFrameIndex="-1" Value="152, 2, 695234.0381" Timestamp="554024" SynchronizedDateTime="2019-10-08 13:53:49:224" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695234.6711" Timestamp="554650" SynchronizedDateTime="2019-10-08 13:53:49:848" />
+  <TextData EyeFrameIndex="-1" Value="153, 1, 695235.2381" Timestamp="555219" SynchronizedDateTime="2019-10-08 13:53:50:425" />
+  <TextData EyeFrameIndex="-1" Value="154, 1, 695236.4381" Timestamp="556419" SynchronizedDateTime="2019-10-08 13:53:51:612" />
+  <TextData EyeFrameIndex="-1" Value="155, 1, 695237.6381" Timestamp="557618" SynchronizedDateTime="2019-10-08 13:53:52:813" />
+  <TextData EyeFrameIndex="-1" Value="156, 2, 695238.8381" Timestamp="558818" SynchronizedDateTime="2019-10-08 13:53:54:014" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695239.4716" Timestamp="559453" SynchronizedDateTime="2019-10-08 13:53:54:655" />
+  <TextData EyeFrameIndex="-1" Value="157, 1, 695240.0381" Timestamp="560017" SynchronizedDateTime="2019-10-08 13:53:55:216" />
+  <TextData EyeFrameIndex="-1" Value="158, 1, 695241.2381" Timestamp="561214" SynchronizedDateTime="2019-10-08 13:53:56:417" />
+  <TextData EyeFrameIndex="-1" Value="159, 1, 695242.4381" Timestamp="562415" SynchronizedDateTime="2019-10-08 13:53:57:620" />
+  <TextData EyeFrameIndex="-1" Value="160, 2, 695243.6381" Timestamp="563619" SynchronizedDateTime="2019-10-08 13:53:58:821" />
+  <TextData EyeFrameIndex="-1" Value="Start time for block 3: 695262.0219" Timestamp="582006" SynchronizedDateTime="2019-10-08 13:54:17:202" />
+  <TextData EyeFrameIndex="-1" Value="1, 1, 695263.2219" Timestamp="583205" SynchronizedDateTime="2019-10-08 13:54:18:403" />
+  <TextData EyeFrameIndex="-1" Value="2, 1, 695264.4219" Timestamp="584411" SynchronizedDateTime="2019-10-08 13:54:19:606" />
+  <TextData EyeFrameIndex="-1" Value="3, 1, 695265.6219" Timestamp="585599" SynchronizedDateTime="2019-10-08 13:54:20:792" />
+  <TextData EyeFrameIndex="-1" Value="4, 2, 695266.8219" Timestamp="586808" SynchronizedDateTime="2019-10-08 13:54:22:009" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695267.264" Timestamp="587263" SynchronizedDateTime="2019-10-08 13:54:22:462" />
+  <TextData EyeFrameIndex="-1" Value="5, 1, 695268.0219" Timestamp="588015" SynchronizedDateTime="2019-10-08 13:54:23:211" />
+  <TextData EyeFrameIndex="-1" Value="6, 1, 695269.2219" Timestamp="589210" SynchronizedDateTime="2019-10-08 13:54:24:412" />
+  <TextData EyeFrameIndex="-1" Value="7, 1, 695270.4219" Timestamp="590405" SynchronizedDateTime="2019-10-08 13:54:25:597" />
+  <TextData EyeFrameIndex="-1" Value="8, 2, 695271.6219" Timestamp="591652" SynchronizedDateTime="2019-10-08 13:54:26:845" />
+  <TextData EyeFrameIndex="-1" Value="9, 29, 695272.8219" Timestamp="592800" SynchronizedDateTime="2019-10-08 13:54:28:001" />
+  <TextData EyeFrameIndex="-1" Value="10, 1, 695274.0219" Timestamp="594001" SynchronizedDateTime="2019-10-08 13:54:29:202" />
+  <TextData EyeFrameIndex="-1" Value="11, 1, 695275.2219" Timestamp="595198" SynchronizedDateTime="2019-10-08 13:54:30:403" />
+  <TextData EyeFrameIndex="-1" Value="12, 2, 695276.4219" Timestamp="596400" SynchronizedDateTime="2019-10-08 13:54:31:606" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695277.1032" Timestamp="597099" SynchronizedDateTime="2019-10-08 13:54:32:293" />
+  <TextData EyeFrameIndex="-1" Value="13, 1, 695277.6219" Timestamp="597608" SynchronizedDateTime="2019-10-08 13:54:32:802" />
+  <TextData EyeFrameIndex="-1" Value="14, 1, 695278.8219" Timestamp="598804" SynchronizedDateTime="2019-10-08 13:54:34:003" />
+  <TextData EyeFrameIndex="-1" Value="15, 1, 695280.0219" Timestamp="599995" SynchronizedDateTime="2019-10-08 13:54:35:189" />
+  <TextData EyeFrameIndex="-1" Value="16, 2, 695281.2219" Timestamp="601195" SynchronizedDateTime="2019-10-08 13:54:36:390" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695281.6632" Timestamp="601641" SynchronizedDateTime="2019-10-08 13:54:36:843" />
+  <TextData EyeFrameIndex="-1" Value="17, 1, 695282.4219" Timestamp="602398" SynchronizedDateTime="2019-10-08 13:54:37:592" />
+  <TextData EyeFrameIndex="-1" Value="18, 1, 695283.6219" Timestamp="603595" SynchronizedDateTime="2019-10-08 13:54:38:793" />
+  <TextData EyeFrameIndex="-1" Value="19, 1, 695284.8219" Timestamp="604795" SynchronizedDateTime="2019-10-08 13:54:39:996" />
+  <TextData EyeFrameIndex="-1" Value="20, 2, 695286.0219" Timestamp="606006" SynchronizedDateTime="2019-10-08 13:54:41:212" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695286.4799" Timestamp="606491" SynchronizedDateTime="2019-10-08 13:54:41:696" />
+  <TextData EyeFrameIndex="-1" Value="21, 1, 695287.2219" Timestamp="607195" SynchronizedDateTime="2019-10-08 13:54:42:398" />
+  <TextData EyeFrameIndex="-1" Value="22, 1, 695288.4219" Timestamp="608395" SynchronizedDateTime="2019-10-08 13:54:43:599" />
+  <TextData EyeFrameIndex="-1" Value="23, 1, 695289.6219" Timestamp="609598" SynchronizedDateTime="2019-10-08 13:54:44:800" />
+  <TextData EyeFrameIndex="-1" Value="24, 2, 695290.8219" Timestamp="610795" SynchronizedDateTime="2019-10-08 13:54:46:002" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695291.4712" Timestamp="611445" SynchronizedDateTime="2019-10-08 13:54:46:641" />
+  <TextData EyeFrameIndex="-1" Value="25, 1, 695292.0219" Timestamp="611995" SynchronizedDateTime="2019-10-08 13:54:47:187" />
+  <TextData EyeFrameIndex="-1" Value="26, 1, 695293.2219" Timestamp="613198" SynchronizedDateTime="2019-10-08 13:54:48:404" />
+  <TextData EyeFrameIndex="-1" Value="27, 1, 695294.4219" Timestamp="614395" SynchronizedDateTime="2019-10-08 13:54:49:591" />
+  <TextData EyeFrameIndex="-1" Value="28, 2, 695295.6219" Timestamp="615596" SynchronizedDateTime="2019-10-08 13:54:50:792" />
+  <TextData EyeFrameIndex="-1" Value="29, 33, 695296.8219" Timestamp="616796" SynchronizedDateTime="2019-10-08 13:54:51:993" />
+  <TextData EyeFrameIndex="-1" Value="30, 1, 695298.0219" Timestamp="617995" SynchronizedDateTime="2019-10-08 13:54:53:194" />
+  <TextData EyeFrameIndex="-1" Value="31, 1, 695299.2219" Timestamp="619199" SynchronizedDateTime="2019-10-08 13:54:54:395" />
+  <TextData EyeFrameIndex="-1" Value="32, 3, 695300.4219" Timestamp="620400" SynchronizedDateTime="2019-10-08 13:54:55:598" />
+  <TextData EyeFrameIndex="-1" Value="33, 1, 695301.6219" Timestamp="621611" SynchronizedDateTime="2019-10-08 13:54:56:814" />
+  <TextData EyeFrameIndex="-1" Value="34, 1, 695302.8219" Timestamp="622798" SynchronizedDateTime="2019-10-08 13:54:58:001" />
+  <TextData EyeFrameIndex="-1" Value="35, 28, 695304.0219" Timestamp="623996" SynchronizedDateTime="2019-10-08 13:54:59:202" />
+  <TextData EyeFrameIndex="-1" Value="36, 2, 695305.2219" Timestamp="625196" SynchronizedDateTime="2019-10-08 13:55:00:403" />
+  <TextData EyeFrameIndex="-1" Value="37, 1, 695306.4219" Timestamp="626395" SynchronizedDateTime="2019-10-08 13:55:01:590" />
+  <TextData EyeFrameIndex="-1" Value="38, 1, 695307.6219" Timestamp="627595" SynchronizedDateTime="2019-10-08 13:55:02:791" />
+  <TextData EyeFrameIndex="-1" Value="39, 1, 695308.8219" Timestamp="628796" SynchronizedDateTime="2019-10-08 13:55:03:992" />
+  <TextData EyeFrameIndex="-1" Value="40, 3, 695310.0219" Timestamp="629996" SynchronizedDateTime="2019-10-08 13:55:05:194" />
+  <TextData EyeFrameIndex="-1" Value="41, 1, 695311.2219" Timestamp="631197" SynchronizedDateTime="2019-10-08 13:55:06:395" />
+  <TextData EyeFrameIndex="-1" Value="42, 1, 695312.4219" Timestamp="632395" SynchronizedDateTime="2019-10-08 13:55:07:597" />
+  <TextData EyeFrameIndex="-1" Value="43, 44, 695313.6219" Timestamp="633598" SynchronizedDateTime="2019-10-08 13:55:08:798" />
+  <TextData EyeFrameIndex="-1" Value="44, 2, 695314.8219" Timestamp="634795" SynchronizedDateTime="2019-10-08 13:55:10:000" />
+  <TextData EyeFrameIndex="-1" Value="45, 1, 695316.0219" Timestamp="635998" SynchronizedDateTime="2019-10-08 13:55:11:202" />
+  <TextData EyeFrameIndex="-1" Value="46, 1, 695317.2219" Timestamp="637214" SynchronizedDateTime="2019-10-08 13:55:12:418" />
+  <TextData EyeFrameIndex="-1" Value="47, 1, 695318.4219" Timestamp="638396" SynchronizedDateTime="2019-10-08 13:55:13:604" />
+  <TextData EyeFrameIndex="-1" Value="48, 2, 695319.6219" Timestamp="639617" SynchronizedDateTime="2019-10-08 13:55:14:821" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695320.2073" Timestamp="640181" SynchronizedDateTime="2019-10-08 13:55:15:382" />
+  <TextData EyeFrameIndex="-1" Value="49, 1, 695320.8219" Timestamp="640828" SynchronizedDateTime="2019-10-08 13:55:16:022" />
+  <TextData EyeFrameIndex="-1" Value="50, 1, 695322.0219" Timestamp="642015" SynchronizedDateTime="2019-10-08 13:55:17:223" />
+  <TextData EyeFrameIndex="-1" Value="51, 61, 695323.2219" Timestamp="643236" SynchronizedDateTime="2019-10-08 13:55:18:440" />
+  <TextData EyeFrameIndex="-1" Value="52, 2, 695324.4219" Timestamp="644404" SynchronizedDateTime="2019-10-08 13:55:19:611" />
+  <TextData EyeFrameIndex="-1" Value="53, 1, 695325.6219" Timestamp="645600" SynchronizedDateTime="2019-10-08 13:55:20:797" />
+  <TextData EyeFrameIndex="-1" Value="54, 1, 695326.8219" Timestamp="646796" SynchronizedDateTime="2019-10-08 13:55:21:999" />
+  <TextData EyeFrameIndex="-1" Value="55, 54, 695328.0219" Timestamp="647996" SynchronizedDateTime="2019-10-08 13:55:23:200" />
+  <TextData EyeFrameIndex="-1" Value="56, 2, 695329.2219" Timestamp="649197" SynchronizedDateTime="2019-10-08 13:55:24:401" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695330.0316" Timestamp="650010" SynchronizedDateTime="2019-10-08 13:55:25:214" />
+  <TextData EyeFrameIndex="-1" Value="57, 1, 695330.4219" Timestamp="650396" SynchronizedDateTime="2019-10-08 13:55:25:604" />
+  <TextData EyeFrameIndex="-1" Value="58, 1, 695331.6219" Timestamp="651595" SynchronizedDateTime="2019-10-08 13:55:26:789" />
+  <TextData EyeFrameIndex="-1" Value="59, 1, 695332.8219" Timestamp="652796" SynchronizedDateTime="2019-10-08 13:55:27:990" />
+  <TextData EyeFrameIndex="-1" Value="60, 2, 695334.0219" Timestamp="653996" SynchronizedDateTime="2019-10-08 13:55:29:192" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695334.5757" Timestamp="654549" SynchronizedDateTime="2019-10-08 13:55:29:753" />
+  <TextData EyeFrameIndex="-1" Value="61, 1, 695335.2219" Timestamp="655195" SynchronizedDateTime="2019-10-08 13:55:30:393" />
+  <TextData EyeFrameIndex="-1" Value="62, 1, 695336.4219" Timestamp="656422" SynchronizedDateTime="2019-10-08 13:55:31:626" />
+  <TextData EyeFrameIndex="-1" Value="63, 49, 695337.6219" Timestamp="657598" SynchronizedDateTime="2019-10-08 13:55:32:796" />
+  <TextData EyeFrameIndex="-1" Value="64, 3, 695338.8219" Timestamp="658796" SynchronizedDateTime="2019-10-08 13:55:33:999" />
+  <TextData EyeFrameIndex="-1" Value="65, 1, 695340.0219" Timestamp="659996" SynchronizedDateTime="2019-10-08 13:55:35:201" />
+  <TextData EyeFrameIndex="-1" Value="66, 1, 695341.2219" Timestamp="661195" SynchronizedDateTime="2019-10-08 13:55:36:402" />
+  <TextData EyeFrameIndex="-1" Value="67, 1, 695342.4219" Timestamp="662395" SynchronizedDateTime="2019-10-08 13:55:37:604" />
+  <TextData EyeFrameIndex="-1" Value="68, 2, 695343.6219" Timestamp="663598" SynchronizedDateTime="2019-10-08 13:55:38:805" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695344.2073" Timestamp="664181" SynchronizedDateTime="2019-10-08 13:55:39:383" />
+  <TextData EyeFrameIndex="-1" Value="69, 1, 695344.8219" Timestamp="664795" SynchronizedDateTime="2019-10-08 13:55:39:992" />
+  <TextData EyeFrameIndex="-1" Value="70, 1, 695346.0219" Timestamp="665995" SynchronizedDateTime="2019-10-08 13:55:41:194" />
+  <TextData EyeFrameIndex="-1" Value="71, 1, 695347.2219" Timestamp="667195" SynchronizedDateTime="2019-10-08 13:55:42:395" />
+  <TextData EyeFrameIndex="-1" Value="72, 2, 695348.4219" Timestamp="668395" SynchronizedDateTime="2019-10-08 13:55:43:597" />
+  <TextData EyeFrameIndex="-1" Value="73, 1, 695349.6219" Timestamp="669597" SynchronizedDateTime="2019-10-08 13:55:44:799" />
+  <TextData EyeFrameIndex="-1" Value="74, 1, 695350.8219" Timestamp="670799" SynchronizedDateTime="2019-10-08 13:55:46:001" />
+  <TextData EyeFrameIndex="-1" Value="75, 1, 695352.0219" Timestamp="671997" SynchronizedDateTime="2019-10-08 13:55:47:202" />
+  <TextData EyeFrameIndex="-1" Value="76, 3, 695353.2219" Timestamp="673196" SynchronizedDateTime="2019-10-08 13:55:48:403" />
+  <TextData EyeFrameIndex="-1" Value="77, 1, 695354.4219" Timestamp="674396" SynchronizedDateTime="2019-10-08 13:55:49:590" />
+  <TextData EyeFrameIndex="-1" Value="78, 1, 695355.6219" Timestamp="675599" SynchronizedDateTime="2019-10-08 13:55:50:807" />
+  <TextData EyeFrameIndex="-1" Value="79, 1, 695356.8219" Timestamp="676795" SynchronizedDateTime="2019-10-08 13:55:51:992" />
+  <TextData EyeFrameIndex="-1" Value="80, 82, 695358.0219" Timestamp="678001" SynchronizedDateTime="2019-10-08 13:55:53:209" />
+  <TextData EyeFrameIndex="-1" Value="81, 1, 695359.2219" Timestamp="679199" SynchronizedDateTime="2019-10-08 13:55:54:395" />
+  <TextData EyeFrameIndex="-1" Value="82, 1, 695360.4219" Timestamp="680403" SynchronizedDateTime="2019-10-08 13:55:55:598" />
+  <TextData EyeFrameIndex="-1" Value="83, 1, 695361.6219" Timestamp="681598" SynchronizedDateTime="2019-10-08 13:55:56:799" />
+  <TextData EyeFrameIndex="-1" Value="84, 2, 695362.8219" Timestamp="682796" SynchronizedDateTime="2019-10-08 13:55:58:000" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695363.2955" Timestamp="683270" SynchronizedDateTime="2019-10-08 13:55:58:468" />
+  <TextData EyeFrameIndex="-1" Value="85, 1, 695364.0219" Timestamp="683996" SynchronizedDateTime="2019-10-08 13:55:59:201" />
+  <TextData EyeFrameIndex="-1" Value="86, 1, 695365.2219" Timestamp="685197" SynchronizedDateTime="2019-10-08 13:56:00:403" />
+  <TextData EyeFrameIndex="-1" Value="87, 1, 695366.4219" Timestamp="686399" SynchronizedDateTime="2019-10-08 13:56:01:605" />
+  <TextData EyeFrameIndex="-1" Value="88, 2, 695367.6219" Timestamp="687624" SynchronizedDateTime="2019-10-08 13:56:02:822" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695368.1752" Timestamp="688149" SynchronizedDateTime="2019-10-08 13:56:03:352" />
+  <TextData EyeFrameIndex="-1" Value="89, 58, 695368.8219" Timestamp="688798" SynchronizedDateTime="2019-10-08 13:56:04:007" />
+  <TextData EyeFrameIndex="-1" Value="90, 1, 695370.0219" Timestamp="689996" SynchronizedDateTime="2019-10-08 13:56:05:193" />
+  <TextData EyeFrameIndex="-1" Value="91, 1, 695371.2219" Timestamp="691195" SynchronizedDateTime="2019-10-08 13:56:06:394" />
+  <TextData EyeFrameIndex="-1" Value="92, 2, 695372.4219" Timestamp="692397" SynchronizedDateTime="2019-10-08 13:56:07:596" />
+  <TextData EyeFrameIndex="-1" Value="93, 1, 695373.6219" Timestamp="693596" SynchronizedDateTime="2019-10-08 13:56:08:797" />
+  <TextData EyeFrameIndex="-1" Value="94, 1, 695374.8219" Timestamp="694795" SynchronizedDateTime="2019-10-08 13:56:10:000" />
+  <TextData EyeFrameIndex="-1" Value="95, 1, 695376.0219" Timestamp="696001" SynchronizedDateTime="2019-10-08 13:56:11:201" />
+  <TextData EyeFrameIndex="-1" Value="96, 2, 695377.2219" Timestamp="697198" SynchronizedDateTime="2019-10-08 13:56:12:402" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695377.679" Timestamp="697654" SynchronizedDateTime="2019-10-08 13:56:12:854" />
+  <TextData EyeFrameIndex="-1" Value="97, 1, 695378.4219" Timestamp="698404" SynchronizedDateTime="2019-10-08 13:56:13:603" />
+  <TextData EyeFrameIndex="-1" Value="98, 1, 695379.6219" Timestamp="699597" SynchronizedDateTime="2019-10-08 13:56:14:804" />
+  <TextData EyeFrameIndex="-1" Value="99, 1, 695380.8219" Timestamp="700796" SynchronizedDateTime="2019-10-08 13:56:15:991" />
+  <TextData EyeFrameIndex="-1" Value="100, 2, 695382.0219" Timestamp="701997" SynchronizedDateTime="2019-10-08 13:56:17:192" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695382.5114" Timestamp="702504" SynchronizedDateTime="2019-10-08 13:56:17:707" />
+  <TextData EyeFrameIndex="-1" Value="101, 1, 695383.2219" Timestamp="703195" SynchronizedDateTime="2019-10-08 13:56:18:393" />
+  <TextData EyeFrameIndex="-1" Value="102, 1, 695384.4219" Timestamp="704397" SynchronizedDateTime="2019-10-08 13:56:19:596" />
+  <TextData EyeFrameIndex="-1" Value="103, 1, 695385.6219" Timestamp="705596" SynchronizedDateTime="2019-10-08 13:56:20:797" />
+  <TextData EyeFrameIndex="-1" Value="104, 2, 695386.8219" Timestamp="706796" SynchronizedDateTime="2019-10-08 13:56:21:998" />
+  <TextData EyeFrameIndex="-1" Value="105, 1, 695388.0219" Timestamp="707996" SynchronizedDateTime="2019-10-08 13:56:23:199" />
+  <TextData EyeFrameIndex="-1" Value="106, 1, 695389.2219" Timestamp="709195" SynchronizedDateTime="2019-10-08 13:56:24:400" />
+  <TextData EyeFrameIndex="-1" Value="107, 1, 695390.4219" Timestamp="710402" SynchronizedDateTime="2019-10-08 13:56:25:603" />
+  <TextData EyeFrameIndex="-1" Value="108, 3, 695391.6219" Timestamp="711596" SynchronizedDateTime="2019-10-08 13:56:26:804" />
+  <TextData EyeFrameIndex="-1" Value="109, 1, 695392.8219" Timestamp="712796" SynchronizedDateTime="2019-10-08 13:56:28:006" />
+  <TextData EyeFrameIndex="-1" Value="110, 1, 695394.0219" Timestamp="713996" SynchronizedDateTime="2019-10-08 13:56:29:192" />
+  <TextData EyeFrameIndex="-1" Value="111, 31, 695395.2219" Timestamp="715196" SynchronizedDateTime="2019-10-08 13:56:30:393" />
+  <TextData EyeFrameIndex="-1" Value="112, 2, 695396.4219" Timestamp="716396" SynchronizedDateTime="2019-10-08 13:56:31:595" />
+  <TextData EyeFrameIndex="-1" Value="113, 1, 695397.6219" Timestamp="717600" SynchronizedDateTime="2019-10-08 13:56:32:796" />
+  <TextData EyeFrameIndex="-1" Value="114, 1, 695398.8219" Timestamp="718796" SynchronizedDateTime="2019-10-08 13:56:33:999" />
+  <TextData EyeFrameIndex="-1" Value="115, 1, 695400.0219" Timestamp="719997" SynchronizedDateTime="2019-10-08 13:56:35:201" />
+  <TextData EyeFrameIndex="-1" Value="116, 2, 695401.2219" Timestamp="721196" SynchronizedDateTime="2019-10-08 13:56:36:402" />
+  <TextData EyeFrameIndex="-1" Value="117, 1, 695402.4219" Timestamp="722402" SynchronizedDateTime="2019-10-08 13:56:37:603" />
+  <TextData EyeFrameIndex="-1" Value="118, 1, 695403.6219" Timestamp="723597" SynchronizedDateTime="2019-10-08 13:56:38:804" />
+  <TextData EyeFrameIndex="-1" Value="119, 1, 695404.8219" Timestamp="724796" SynchronizedDateTime="2019-10-08 13:56:39:991" />
+  <TextData EyeFrameIndex="-1" Value="120, 76, 695406.0219" Timestamp="726000" SynchronizedDateTime="2019-10-08 13:56:41:208" />
+  <TextData EyeFrameIndex="-1" Value="121, 1, 695407.2219" Timestamp="727196" SynchronizedDateTime="2019-10-08 13:56:42:393" />
+  <TextData EyeFrameIndex="-1" Value="122, 1, 695408.4219" Timestamp="728423" SynchronizedDateTime="2019-10-08 13:56:43:627" />
+  <TextData EyeFrameIndex="-1" Value="123, 1, 695409.6219" Timestamp="729598" SynchronizedDateTime="2019-10-08 13:56:44:797" />
+  <TextData EyeFrameIndex="-1" Value="124, 3, 695410.8219" Timestamp="730796" SynchronizedDateTime="2019-10-08 13:56:45:999" />
+  <TextData EyeFrameIndex="-1" Value="125, 1, 695412.0219" Timestamp="731996" SynchronizedDateTime="2019-10-08 13:56:47:201" />
+  <TextData EyeFrameIndex="-1" Value="126, 1, 695413.2219" Timestamp="733196" SynchronizedDateTime="2019-10-08 13:56:48:402" />
+  <TextData EyeFrameIndex="-1" Value="127, 1, 695414.4219" Timestamp="734400" SynchronizedDateTime="2019-10-08 13:56:49:604" />
+  <TextData EyeFrameIndex="-1" Value="128, 50, 695415.6219" Timestamp="735596" SynchronizedDateTime="2019-10-08 13:56:50:806" />
+  <TextData EyeFrameIndex="-1" Value="129, 1, 695416.8219" Timestamp="736800" SynchronizedDateTime="2019-10-08 13:56:52:007" />
+  <TextData EyeFrameIndex="-1" Value="130, 80, 695418.0219" Timestamp="737996" SynchronizedDateTime="2019-10-08 13:56:53:192" />
+  <TextData EyeFrameIndex="-1" Value="131, 1, 695419.2219" Timestamp="739196" SynchronizedDateTime="2019-10-08 13:56:54:394" />
+  <TextData EyeFrameIndex="-1" Value="132, 2, 695420.4219" Timestamp="740397" SynchronizedDateTime="2019-10-08 13:56:55:596" />
+  <TextData EyeFrameIndex="-1" Value="133, 1, 695421.6219" Timestamp="741596" SynchronizedDateTime="2019-10-08 13:56:56:797" />
+  <TextData EyeFrameIndex="-1" Value="134, 1, 695422.8219" Timestamp="742806" SynchronizedDateTime="2019-10-08 13:56:58:015" />
+  <TextData EyeFrameIndex="-1" Value="135, 1, 695424.0219" Timestamp="744012" SynchronizedDateTime="2019-10-08 13:56:59:216" />
+  <TextData EyeFrameIndex="-1" Value="136, 2, 695425.2219" Timestamp="745212" SynchronizedDateTime="2019-10-08 13:57:00:417" />
+  <TextData EyeFrameIndex="-1" Value="137, 1, 695426.4219" Timestamp="746404" SynchronizedDateTime="2019-10-08 13:57:01:603" />
+  <TextData EyeFrameIndex="-1" Value="138, 1, 695427.6219" Timestamp="747596" SynchronizedDateTime="2019-10-08 13:57:02:804" />
+  <TextData EyeFrameIndex="-1" Value="139, 1, 695428.8219" Timestamp="748799" SynchronizedDateTime="2019-10-08 13:57:04:006" />
+  <TextData EyeFrameIndex="-1" Value="140, 2, 695430.0219" Timestamp="749999" SynchronizedDateTime="2019-10-08 13:57:05:207" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695430.5912" Timestamp="750568" SynchronizedDateTime="2019-10-08 13:57:05:769" />
+  <TextData EyeFrameIndex="-1" Value="141, 1, 695431.2219" Timestamp="751196" SynchronizedDateTime="2019-10-08 13:57:06:393" />
+  <TextData EyeFrameIndex="-1" Value="142, 1, 695432.4219" Timestamp="752400" SynchronizedDateTime="2019-10-08 13:57:07:610" />
+  <TextData EyeFrameIndex="-1" Value="143, 1, 695433.6219" Timestamp="753618" SynchronizedDateTime="2019-10-08 13:57:08:827" />
+  <TextData EyeFrameIndex="-1" Value="144, 79, 695434.8219" Timestamp="754796" SynchronizedDateTime="2019-10-08 13:57:09:997" />
+  <TextData EyeFrameIndex="-1" Value="145, 51, 695436.0219" Timestamp="755998" SynchronizedDateTime="2019-10-08 13:57:11:198" />
+  <TextData EyeFrameIndex="-1" Value="146, 87, 695437.2219" Timestamp="757202" SynchronizedDateTime="2019-10-08 13:57:12:399" />
+  <TextData EyeFrameIndex="-1" Value="147, 1, 695438.4219" Timestamp="758396" SynchronizedDateTime="2019-10-08 13:57:13:601" />
+  <TextData EyeFrameIndex="-1" Value="148, 2, 695439.6219" Timestamp="759601" SynchronizedDateTime="2019-10-08 13:57:14:802" />
+  <TextData EyeFrameIndex="-1" Value="149, 1, 695440.8219" Timestamp="760799" SynchronizedDateTime="2019-10-08 13:57:16:005" />
+  <TextData EyeFrameIndex="-1" Value="150, 1, 695442.0219" Timestamp="761997" SynchronizedDateTime="2019-10-08 13:57:17:206" />
+  <TextData EyeFrameIndex="-1" Value="151, 1, 695443.2219" Timestamp="763196" SynchronizedDateTime="2019-10-08 13:57:18:407" />
+  <TextData EyeFrameIndex="-1" Value="152, 2, 695444.4219" Timestamp="764408" SynchronizedDateTime="2019-10-08 13:57:19:609" />
+  <TextData EyeFrameIndex="-1" Value="153, 1, 695445.6219" Timestamp="765596" SynchronizedDateTime="2019-10-08 13:57:20:795" />
+  <TextData EyeFrameIndex="-1" Value="154, 1, 695446.8219" Timestamp="766800" SynchronizedDateTime="2019-10-08 13:57:22:012" />
+  <TextData EyeFrameIndex="-1" Value="155, 1, 695448.0219" Timestamp="767999" SynchronizedDateTime="2019-10-08 13:57:23:197" />
+  <TextData EyeFrameIndex="-1" Value="156, 2, 695449.2219" Timestamp="769196" SynchronizedDateTime="2019-10-08 13:57:24:399" />
+  <TextData EyeFrameIndex="-1" Value="157, 1, 695450.4219" Timestamp="770412" SynchronizedDateTime="2019-10-08 13:57:25:616" />
+  <TextData EyeFrameIndex="-1" Value="158, 1, 695451.6219" Timestamp="771599" SynchronizedDateTime="2019-10-08 13:57:26:802" />
+  <TextData EyeFrameIndex="-1" Value="159, 1, 695452.8219" Timestamp="772797" SynchronizedDateTime="2019-10-08 13:57:28:004" />
+  <TextData EyeFrameIndex="-1" Value="160, 2, 695454.0219" Timestamp="773999" SynchronizedDateTime="2019-10-08 13:57:29:205" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695454.4794" Timestamp="774454" SynchronizedDateTime="2019-10-08 13:57:29:658" />
+  <TextData EyeFrameIndex="-1" Value="Start time for block 4: 695474.3721" Timestamp="794350" SynchronizedDateTime="2019-10-08 13:57:49:554" />
+  <TextData EyeFrameIndex="-1" Value="1, 1, 695475.5721" Timestamp="795547" SynchronizedDateTime="2019-10-08 13:57:50:755" />
+  <TextData EyeFrameIndex="-1" Value="2, 1, 695476.7721" Timestamp="796746" SynchronizedDateTime="2019-10-08 13:57:51:957" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695476.8159" Timestamp="796791" SynchronizedDateTime="2019-10-08 13:57:51:988" />
+  <TextData EyeFrameIndex="-1" Value="3, 1, 695477.9721" Timestamp="797948" SynchronizedDateTime="2019-10-08 13:57:53:158" />
+  <TextData EyeFrameIndex="-1" Value="4, 2, 695479.1721" Timestamp="799148" SynchronizedDateTime="2019-10-08 13:57:54:360" />
+  <TextData EyeFrameIndex="-1" Value="5, 1, 695480.3721" Timestamp="800347" SynchronizedDateTime="2019-10-08 13:57:55:546" />
+  <TextData EyeFrameIndex="-1" Value="6, 1, 695481.5721" Timestamp="801551" SynchronizedDateTime="2019-10-08 13:57:56:750" />
+  <TextData EyeFrameIndex="-1" Value="7, 1, 695482.7721" Timestamp="802747" SynchronizedDateTime="2019-10-08 13:57:57:953" />
+  <TextData EyeFrameIndex="-1" Value="8, 2, 695483.9721" Timestamp="803948" SynchronizedDateTime="2019-10-08 13:57:59:154" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695484.4962" Timestamp="804472" SynchronizedDateTime="2019-10-08 13:57:59:684" />
+  <TextData EyeFrameIndex="-1" Value="9, 84, 695485.1721" Timestamp="805146" SynchronizedDateTime="2019-10-08 13:58:00:355" />
+  <TextData EyeFrameIndex="-1" Value="10, 1, 695486.3721" Timestamp="806347" SynchronizedDateTime="2019-10-08 13:58:01:556" />
+  <TextData EyeFrameIndex="-1" Value="11, 1, 695487.5721" Timestamp="807552" SynchronizedDateTime="2019-10-08 13:58:02:757" />
+  <TextData EyeFrameIndex="-1" Value="12, 3, 695488.7721" Timestamp="808747" SynchronizedDateTime="2019-10-08 13:58:03:960" />
+  <TextData EyeFrameIndex="-1" Value="13, 1, 695489.9721" Timestamp="809946" SynchronizedDateTime="2019-10-08 13:58:05:145" />
+  <TextData EyeFrameIndex="-1" Value="14, 1, 695491.1721" Timestamp="811147" SynchronizedDateTime="2019-10-08 13:58:06:346" />
+  <TextData EyeFrameIndex="-1" Value="15, 1, 695492.3721" Timestamp="812346" SynchronizedDateTime="2019-10-08 13:58:07:549" />
+  <TextData EyeFrameIndex="-1" Value="16, 2, 695493.5721" Timestamp="813547" SynchronizedDateTime="2019-10-08 13:58:08:750" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695494.1279" Timestamp="814107" SynchronizedDateTime="2019-10-08 13:58:09:311" />
+  <TextData EyeFrameIndex="-1" Value="17, 1, 695494.7721" Timestamp="814746" SynchronizedDateTime="2019-10-08 13:58:09:951" />
+  <TextData EyeFrameIndex="-1" Value="18, 1, 695495.9721" Timestamp="815951" SynchronizedDateTime="2019-10-08 13:58:11:153" />
+  <TextData EyeFrameIndex="-1" Value="19, 1, 695497.1721" Timestamp="817148" SynchronizedDateTime="2019-10-08 13:58:12:354" />
+  <TextData EyeFrameIndex="-1" Value="20, 3, 695498.3721" Timestamp="818373" SynchronizedDateTime="2019-10-08 13:58:13:572" />
+  <TextData EyeFrameIndex="-1" Value="21, 18, 695499.5721" Timestamp="819629" SynchronizedDateTime="2019-10-08 13:58:14:836" />
+  <TextData EyeFrameIndex="-1" Value="22, 1, 695500.7721" Timestamp="820747" SynchronizedDateTime="2019-10-08 13:58:15:960" />
+  <TextData EyeFrameIndex="-1" Value="23, 63, 695501.9721" Timestamp="821947" SynchronizedDateTime="2019-10-08 13:58:17:146" />
+  <TextData EyeFrameIndex="-1" Value="24, 2, 695503.1721" Timestamp="823147" SynchronizedDateTime="2019-10-08 13:58:18:347" />
+  <TextData EyeFrameIndex="-1" Value="25, 1, 695504.3721" Timestamp="824347" SynchronizedDateTime="2019-10-08 13:58:19:550" />
+  <TextData EyeFrameIndex="-1" Value="26, 1, 695505.5721" Timestamp="825547" SynchronizedDateTime="2019-10-08 13:58:20:751" />
+  <TextData EyeFrameIndex="-1" Value="27, 1, 695506.7721" Timestamp="826747" SynchronizedDateTime="2019-10-08 13:58:21:953" />
+  <TextData EyeFrameIndex="-1" Value="28, 78, 695507.9721" Timestamp="827947" SynchronizedDateTime="2019-10-08 13:58:23:155" />
+  <TextData EyeFrameIndex="-1" Value="29, 75, 695509.1721" Timestamp="829185" SynchronizedDateTime="2019-10-08 13:58:24:387" />
+  <TextData EyeFrameIndex="-1" Value="30, 1, 695510.3721" Timestamp="830347" SynchronizedDateTime="2019-10-08 13:58:25:557" />
+  <TextData EyeFrameIndex="-1" Value="31, 1, 695511.5721" Timestamp="831549" SynchronizedDateTime="2019-10-08 13:58:26:758" />
+  <TextData EyeFrameIndex="-1" Value="32, 83, 695512.7721" Timestamp="832769" SynchronizedDateTime="2019-10-08 13:58:27:976" />
+  <TextData EyeFrameIndex="-1" Value="33, 1, 695513.9721" Timestamp="833948" SynchronizedDateTime="2019-10-08 13:58:29:146" />
+  <TextData EyeFrameIndex="-1" Value="34, 1, 695515.1721" Timestamp="835147" SynchronizedDateTime="2019-10-08 13:58:30:347" />
+  <TextData EyeFrameIndex="-1" Value="35, 1, 695516.3721" Timestamp="836350" SynchronizedDateTime="2019-10-08 13:58:31:549" />
+  <TextData EyeFrameIndex="-1" Value="36, 2, 695517.5721" Timestamp="837574" SynchronizedDateTime="2019-10-08 13:58:32:782" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695518.415" Timestamp="838413" SynchronizedDateTime="2019-10-08 13:58:33:624" />
+  <TextData EyeFrameIndex="-1" Value="37, 1, 695518.7721" Timestamp="838750" SynchronizedDateTime="2019-10-08 13:58:33:952" />
+  <TextData EyeFrameIndex="-1" Value="38, 1, 695519.9721" Timestamp="839967" SynchronizedDateTime="2019-10-08 13:58:35:169" />
+  <TextData EyeFrameIndex="-1" Value="39, 1, 695521.1721" Timestamp="841157" SynchronizedDateTime="2019-10-08 13:58:36:370" />
+  <TextData EyeFrameIndex="-1" Value="40, 2, 695522.3721" Timestamp="842348" SynchronizedDateTime="2019-10-08 13:58:37:556" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695523.0555" Timestamp="843060" SynchronizedDateTime="2019-10-08 13:58:38:258" />
+  <TextData EyeFrameIndex="-1" Value="41, 1, 695523.5721" Timestamp="843552" SynchronizedDateTime="2019-10-08 13:58:38:758" />
+  <TextData EyeFrameIndex="-1" Value="42, 1, 695524.7721" Timestamp="844747" SynchronizedDateTime="2019-10-08 13:58:39:960" />
+  <TextData EyeFrameIndex="-1" Value="43, 1, 695525.9721" Timestamp="845951" SynchronizedDateTime="2019-10-08 13:58:41:161" />
+  <TextData EyeFrameIndex="-1" Value="44, 2, 695527.1721" Timestamp="847147" SynchronizedDateTime="2019-10-08 13:58:42:347" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695527.6792" Timestamp="847655" SynchronizedDateTime="2019-10-08 13:58:42:862" />
+  <TextData EyeFrameIndex="-1" Value="45, 1, 695528.3721" Timestamp="848369" SynchronizedDateTime="2019-10-08 13:58:43:580" />
+  <TextData EyeFrameIndex="-1" Value="46, 1, 695529.5721" Timestamp="849547" SynchronizedDateTime="2019-10-08 13:58:44:750" />
+  <TextData EyeFrameIndex="-1" Value="47, 1, 695530.7721" Timestamp="850753" SynchronizedDateTime="2019-10-08 13:58:45:967" />
+  <TextData EyeFrameIndex="-1" Value="48, 3, 695531.9721" Timestamp="851947" SynchronizedDateTime="2019-10-08 13:58:47:152" />
+  <TextData EyeFrameIndex="-1" Value="49, 1, 695533.1721" Timestamp="853148" SynchronizedDateTime="2019-10-08 13:58:48:354" />
+  <TextData EyeFrameIndex="-1" Value="50, 1, 695534.3721" Timestamp="854348" SynchronizedDateTime="2019-10-08 13:58:49:556" />
+  <TextData EyeFrameIndex="-1" Value="51, 1, 695535.5721" Timestamp="855551" SynchronizedDateTime="2019-10-08 13:58:50:757" />
+  <TextData EyeFrameIndex="-1" Value="52, 2, 695536.7721" Timestamp="856750" SynchronizedDateTime="2019-10-08 13:58:51:959" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695537.2954" Timestamp="857272" SynchronizedDateTime="2019-10-08 13:58:52:474" />
+  <TextData EyeFrameIndex="-1" Value="53, 1, 695537.9721" Timestamp="857968" SynchronizedDateTime="2019-10-08 13:58:53:176" />
+  <TextData EyeFrameIndex="-1" Value="54, 1, 695539.1721" Timestamp="859147" SynchronizedDateTime="2019-10-08 13:58:54:346" />
+  <TextData EyeFrameIndex="-1" Value="55, 1, 695540.3721" Timestamp="860348" SynchronizedDateTime="2019-10-08 13:58:55:548" />
+  <TextData EyeFrameIndex="-1" Value="56, 2, 695541.5721" Timestamp="861554" SynchronizedDateTime="2019-10-08 13:58:56:765" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695542.0315" Timestamp="862011" SynchronizedDateTime="2019-10-08 13:58:57:217" />
+  <TextData EyeFrameIndex="-1" Value="57, 1, 695542.7721" Timestamp="862747" SynchronizedDateTime="2019-10-08 13:58:57:951" />
+  <TextData EyeFrameIndex="-1" Value="58, 1, 695543.9721" Timestamp="863948" SynchronizedDateTime="2019-10-08 13:58:59:152" />
+  <TextData EyeFrameIndex="-1" Value="59, 1, 695545.1721" Timestamp="865147" SynchronizedDateTime="2019-10-08 13:59:00:353" />
+  <TextData EyeFrameIndex="-1" Value="60, 2, 695546.3721" Timestamp="866347" SynchronizedDateTime="2019-10-08 13:59:01:555" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695546.8157" Timestamp="866792" SynchronizedDateTime="2019-10-08 13:59:01:992" />
+  <TextData EyeFrameIndex="-1" Value="61, 53, 695547.5721" Timestamp="867547" SynchronizedDateTime="2019-10-08 13:59:02:756" />
+  <TextData EyeFrameIndex="-1" Value="62, 1, 695548.7721" Timestamp="868751" SynchronizedDateTime="2019-10-08 13:59:03:959" />
+  <TextData EyeFrameIndex="-1" Value="63, 1, 695549.9721" Timestamp="869948" SynchronizedDateTime="2019-10-08 13:59:05:160" />
+  <TextData EyeFrameIndex="-1" Value="64, 2, 695551.1721" Timestamp="871152" SynchronizedDateTime="2019-10-08 13:59:06:361" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695551.679" Timestamp="871655" SynchronizedDateTime="2019-10-08 13:59:06:861" />
+  <TextData EyeFrameIndex="-1" Value="65, 1, 695552.3721" Timestamp="872372" SynchronizedDateTime="2019-10-08 13:59:07:579" />
+  <TextData EyeFrameIndex="-1" Value="66, 1, 695553.5721" Timestamp="873547" SynchronizedDateTime="2019-10-08 13:59:08:749" />
+  <TextData EyeFrameIndex="-1" Value="67, 1, 695554.7721" Timestamp="874750" SynchronizedDateTime="2019-10-08 13:59:09:950" />
+  <TextData EyeFrameIndex="-1" Value="68, 2, 695555.9721" Timestamp="875948" SynchronizedDateTime="2019-10-08 13:59:11:151" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695556.3673" Timestamp="876344" SynchronizedDateTime="2019-10-08 13:59:11:557" />
+  <TextData EyeFrameIndex="-1" Value="69, 1, 695557.1721" Timestamp="877148" SynchronizedDateTime="2019-10-08 13:59:12:353" />
+  <TextData EyeFrameIndex="-1" Value="70, 1, 695558.3721" Timestamp="878352" SynchronizedDateTime="2019-10-08 13:59:13:555" />
+  <TextData EyeFrameIndex="-1" Value="71, 1, 695559.5721" Timestamp="879550" SynchronizedDateTime="2019-10-08 13:59:14:756" />
+  <TextData EyeFrameIndex="-1" Value="72, 3, 695560.7721" Timestamp="880749" SynchronizedDateTime="2019-10-08 13:59:15:958" />
+  <TextData EyeFrameIndex="-1" Value="73, 1, 695561.9721" Timestamp="881947" SynchronizedDateTime="2019-10-08 13:59:17:159" />
+  <TextData EyeFrameIndex="-1" Value="74, 1, 695563.1721" Timestamp="883149" SynchronizedDateTime="2019-10-08 13:59:18:361" />
+  <TextData EyeFrameIndex="-1" Value="75, 1, 695564.3721" Timestamp="884350" SynchronizedDateTime="2019-10-08 13:59:19:565" />
+  <TextData EyeFrameIndex="-1" Value="76, 2, 695565.5721" Timestamp="885650" SynchronizedDateTime="2019-10-08 13:59:20:860" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695566.0477" Timestamp="886024" SynchronizedDateTime="2019-10-08 13:59:21:234" />
+  <TextData EyeFrameIndex="-1" Value="77, 1, 695566.7721" Timestamp="886750" SynchronizedDateTime="2019-10-08 13:59:21:952" />
+  <TextData EyeFrameIndex="-1" Value="78, 1, 695567.9721" Timestamp="887963" SynchronizedDateTime="2019-10-08 13:59:23:168" />
+  <TextData EyeFrameIndex="-1" Value="79, 1, 695569.1721" Timestamp="889153" SynchronizedDateTime="2019-10-08 13:59:24:354" />
+  <TextData EyeFrameIndex="-1" Value="80, 3, 695570.3721" Timestamp="890353" SynchronizedDateTime="2019-10-08 13:59:25:556" />
+  <TextData EyeFrameIndex="-1" Value="81, 40, 695571.5721" Timestamp="891557" SynchronizedDateTime="2019-10-08 13:59:26:757" />
+  <TextData EyeFrameIndex="-1" Value="82, 48, 695572.7721" Timestamp="892751" SynchronizedDateTime="2019-10-08 13:59:27:959" />
+  <TextData EyeFrameIndex="-1" Value="83, 1, 695573.9721" Timestamp="893947" SynchronizedDateTime="2019-10-08 13:59:29:160" />
+  <TextData EyeFrameIndex="-1" Value="84, 3, 695575.1721" Timestamp="895147" SynchronizedDateTime="2019-10-08 13:59:30:361" />
+  <TextData EyeFrameIndex="-1" Value="85, 1, 695576.3721" Timestamp="896347" SynchronizedDateTime="2019-10-08 13:59:31:548" />
+  <TextData EyeFrameIndex="-1" Value="86, 70, 695577.5721" Timestamp="897547" SynchronizedDateTime="2019-10-08 13:59:32:749" />
+  <TextData EyeFrameIndex="-1" Value="87, 1, 695578.7721" Timestamp="898747" SynchronizedDateTime="2019-10-08 13:59:33:950" />
+  <TextData EyeFrameIndex="-1" Value="88, 2, 695579.9721" Timestamp="899947" SynchronizedDateTime="2019-10-08 13:59:35:151" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695580.624" Timestamp="900601" SynchronizedDateTime="2019-10-08 13:59:35:806" />
+  <TextData EyeFrameIndex="-1" Value="89, 1, 695581.1721" Timestamp="901149" SynchronizedDateTime="2019-10-08 13:59:36:352" />
+  <TextData EyeFrameIndex="-1" Value="90, 1, 695582.3721" Timestamp="902350" SynchronizedDateTime="2019-10-08 13:59:37:555" />
+  <TextData EyeFrameIndex="-1" Value="91, 1, 695583.5721" Timestamp="903547" SynchronizedDateTime="2019-10-08 13:59:38:756" />
+  <TextData EyeFrameIndex="-1" Value="92, 2, 695584.7721" Timestamp="904776" SynchronizedDateTime="2019-10-08 13:59:39:989" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695585.4551" Timestamp="905437" SynchronizedDateTime="2019-10-08 13:59:40:644" />
+  <TextData EyeFrameIndex="-1" Value="93, 1, 695585.9721" Timestamp="905948" SynchronizedDateTime="2019-10-08 13:59:41:159" />
+  <TextData EyeFrameIndex="-1" Value="94, 1, 695587.1721" Timestamp="907147" SynchronizedDateTime="2019-10-08 13:59:42:360" />
+  <TextData EyeFrameIndex="-1" Value="95, 1, 695588.3721" Timestamp="908348" SynchronizedDateTime="2019-10-08 13:59:43:562" />
+  <TextData EyeFrameIndex="-1" Value="96, 3, 695589.5721" Timestamp="909550" SynchronizedDateTime="2019-10-08 13:59:44:763" />
+  <TextData EyeFrameIndex="-1" Value="97, 1, 695590.7721" Timestamp="910776" SynchronizedDateTime="2019-10-08 13:59:45:981" />
+  <TextData EyeFrameIndex="-1" Value="98, 13, 695591.9721" Timestamp="911950" SynchronizedDateTime="2019-10-08 13:59:47:151" />
+  <TextData EyeFrameIndex="-1" Value="99, 1, 695593.1721" Timestamp="913150" SynchronizedDateTime="2019-10-08 13:59:48:352" />
+  <TextData EyeFrameIndex="-1" Value="100, 2, 695594.3721" Timestamp="914349" SynchronizedDateTime="2019-10-08 13:59:49:554" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695594.9597" Timestamp="914941" SynchronizedDateTime="2019-10-08 13:59:50:147" />
+  <TextData EyeFrameIndex="-1" Value="101, 1, 695595.5721" Timestamp="915549" SynchronizedDateTime="2019-10-08 13:59:50:755" />
+  <TextData EyeFrameIndex="-1" Value="102, 55, 695596.7721" Timestamp="916750" SynchronizedDateTime="2019-10-08 13:59:51:957" />
+  <TextData EyeFrameIndex="-1" Value="103, 1, 695597.9721" Timestamp="917953" SynchronizedDateTime="2019-10-08 13:59:53:159" />
+  <TextData EyeFrameIndex="-1" Value="104, 2, 695599.1721" Timestamp="919164" SynchronizedDateTime="2019-10-08 13:59:54:375" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695599.7116" Timestamp="919687" SynchronizedDateTime="2019-10-08 13:59:54:890" />
+  <TextData EyeFrameIndex="-1" Value="105, 1, 695600.3721" Timestamp="920352" SynchronizedDateTime="2019-10-08 13:59:55:561" />
+  <TextData EyeFrameIndex="-1" Value="106, 1, 695601.5721" Timestamp="921547" SynchronizedDateTime="2019-10-08 13:59:56:762" />
+  <TextData EyeFrameIndex="-1" Value="107, 1, 695602.7721" Timestamp="922747" SynchronizedDateTime="2019-10-08 13:59:57:949" />
+  <TextData EyeFrameIndex="-1" Value="108, 71, 695603.9721" Timestamp="923977" SynchronizedDateTime="2019-10-08 13:59:59:181" />
+  <TextData EyeFrameIndex="-1" Value="109, 1, 695605.1721" Timestamp="925147" SynchronizedDateTime="2019-10-08 14:00:00:351" />
+  <TextData EyeFrameIndex="-1" Value="110, 1, 695606.3721" Timestamp="926351" SynchronizedDateTime="2019-10-08 14:00:01:553" />
+  <TextData EyeFrameIndex="-1" Value="111, 1, 695607.5721" Timestamp="927547" SynchronizedDateTime="2019-10-08 14:00:02:755" />
+  <TextData EyeFrameIndex="-1" Value="112, 72, 695608.7721" Timestamp="928748" SynchronizedDateTime="2019-10-08 14:00:03:957" />
+  <TextData EyeFrameIndex="-1" Value="113, 1, 695609.9721" Timestamp="929948" SynchronizedDateTime="2019-10-08 14:00:05:158" />
+  <TextData EyeFrameIndex="-1" Value="114, 1, 695611.1721" Timestamp="931148" SynchronizedDateTime="2019-10-08 14:00:06:359" />
+  <TextData EyeFrameIndex="-1" Value="115, 1, 695612.3721" Timestamp="932348" SynchronizedDateTime="2019-10-08 14:00:07:560" />
+  <TextData EyeFrameIndex="-1" Value="116, 2, 695613.5721" Timestamp="933549" SynchronizedDateTime="2019-10-08 14:00:08:762" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695613.9356" Timestamp="933914" SynchronizedDateTime="2019-10-08 14:00:09:120" />
+  <TextData EyeFrameIndex="-1" Value="117, 1, 695614.7721" Timestamp="934747" SynchronizedDateTime="2019-10-08 14:00:09:948" />
+  <TextData EyeFrameIndex="-1" Value="118, 1, 695615.9721" Timestamp="935948" SynchronizedDateTime="2019-10-08 14:00:11:149" />
+  <TextData EyeFrameIndex="-1" Value="119, 1, 695617.1721" Timestamp="937154" SynchronizedDateTime="2019-10-08 14:00:12:367" />
+  <TextData EyeFrameIndex="-1" Value="120, 2, 695618.3721" Timestamp="938347" SynchronizedDateTime="2019-10-08 14:00:13:556" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695618.8154" Timestamp="938794" SynchronizedDateTime="2019-10-08 14:00:14:008" />
+  <TextData EyeFrameIndex="-1" Value="121, 1, 695619.5721" Timestamp="939547" SynchronizedDateTime="2019-10-08 14:00:14:758" />
+  <TextData EyeFrameIndex="-1" Value="122, 1, 695620.7721" Timestamp="940748" SynchronizedDateTime="2019-10-08 14:00:15:960" />
+  <TextData EyeFrameIndex="-1" Value="123, 1, 695621.9721" Timestamp="941947" SynchronizedDateTime="2019-10-08 14:00:17:161" />
+  <TextData EyeFrameIndex="-1" Value="124, 2, 695623.1721" Timestamp="943147" SynchronizedDateTime="2019-10-08 14:00:18:363" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695623.5517" Timestamp="943530" SynchronizedDateTime="2019-10-08 14:00:18:738" />
+  <TextData EyeFrameIndex="-1" Value="125, 1, 695624.3721" Timestamp="944347" SynchronizedDateTime="2019-10-08 14:00:19:549" />
+  <TextData EyeFrameIndex="-1" Value="126, 1, 695625.5721" Timestamp="945548" SynchronizedDateTime="2019-10-08 14:00:20:750" />
+  <TextData EyeFrameIndex="-1" Value="127, 1, 695626.7721" Timestamp="946753" SynchronizedDateTime="2019-10-08 14:00:21:967" />
+  <TextData EyeFrameIndex="-1" Value="128, 2, 695627.9721" Timestamp="947947" SynchronizedDateTime="2019-10-08 14:00:23:153" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695628.3834" Timestamp="948360" SynchronizedDateTime="2019-10-08 14:00:23:574" />
+  <TextData EyeFrameIndex="-1" Value="129, 25, 695629.1721" Timestamp="949152" SynchronizedDateTime="2019-10-08 14:00:24:354" />
+  <TextData EyeFrameIndex="-1" Value="130, 1, 695630.3721" Timestamp="950347" SynchronizedDateTime="2019-10-08 14:00:25:556" />
+  <TextData EyeFrameIndex="-1" Value="131, 1, 695631.5721" Timestamp="951547" SynchronizedDateTime="2019-10-08 14:00:26:757" />
+  <TextData EyeFrameIndex="-1" Value="132, 2, 695632.7721" Timestamp="952749" SynchronizedDateTime="2019-10-08 14:00:27:960" />
+  <TextData EyeFrameIndex="-1" Value="133, 1, 695633.9721" Timestamp="953948" SynchronizedDateTime="2019-10-08 14:00:29:161" />
+  <TextData EyeFrameIndex="-1" Value="134, 1, 695635.1721" Timestamp="955152" SynchronizedDateTime="2019-10-08 14:00:30:362" />
+  <TextData EyeFrameIndex="-1" Value="135, 1, 695636.3721" Timestamp="956348" SynchronizedDateTime="2019-10-08 14:00:31:563" />
+  <TextData EyeFrameIndex="-1" Value="136, 2, 695637.5721" Timestamp="957554" SynchronizedDateTime="2019-10-08 14:00:32:764" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695638.015" Timestamp="957994" SynchronizedDateTime="2019-10-08 14:00:33:201" />
+  <TextData EyeFrameIndex="-1" Value="137, 1, 695638.7721" Timestamp="958751" SynchronizedDateTime="2019-10-08 14:00:33:967" />
+  <TextData EyeFrameIndex="-1" Value="138, 1, 695639.9721" Timestamp="959949" SynchronizedDateTime="2019-10-08 14:00:35:152" />
+  <TextData EyeFrameIndex="-1" Value="139, 1, 695641.1721" Timestamp="961150" SynchronizedDateTime="2019-10-08 14:00:36:353" />
+  <TextData EyeFrameIndex="-1" Value="140, 2, 695642.3721" Timestamp="962348" SynchronizedDateTime="2019-10-08 14:00:37:556" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695642.8791" Timestamp="962858" SynchronizedDateTime="2019-10-08 14:00:38:070" />
+  <TextData EyeFrameIndex="-1" Value="141, 36, 695643.5721" Timestamp="963554" SynchronizedDateTime="2019-10-08 14:00:38:757" />
+  <TextData EyeFrameIndex="-1" Value="142, 1, 695644.7721" Timestamp="964748" SynchronizedDateTime="2019-10-08 14:00:39:959" />
+  <TextData EyeFrameIndex="-1" Value="143, 1, 695645.9721" Timestamp="965948" SynchronizedDateTime="2019-10-08 14:00:41:160" />
+  <TextData EyeFrameIndex="-1" Value="144, 3, 695647.1721" Timestamp="967148" SynchronizedDateTime="2019-10-08 14:00:42:361" />
+  <TextData EyeFrameIndex="-1" Value="145, 1, 695648.3721" Timestamp="968351" SynchronizedDateTime="2019-10-08 14:00:43:563" />
+  <TextData EyeFrameIndex="-1" Value="146, 1, 695649.5721" Timestamp="969629" SynchronizedDateTime="2019-10-08 14:00:44:842" />
+  <TextData EyeFrameIndex="-1" Value="147, 1, 695650.7721" Timestamp="970749" SynchronizedDateTime="2019-10-08 14:00:45:966" />
+  <TextData EyeFrameIndex="-1" Value="148, 2, 695651.9721" Timestamp="971952" SynchronizedDateTime="2019-10-08 14:00:47:167" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695652.5751" Timestamp="972551" SynchronizedDateTime="2019-10-08 14:00:47:760" />
+  <TextData EyeFrameIndex="-1" Value="149, 1, 695653.1721" Timestamp="973148" SynchronizedDateTime="2019-10-08 14:00:48:353" />
+  <TextData EyeFrameIndex="-1" Value="150, 1, 695654.3721" Timestamp="974348" SynchronizedDateTime="2019-10-08 14:00:49:555" />
+  <TextData EyeFrameIndex="-1" Value="151, 1, 695655.5721" Timestamp="975548" SynchronizedDateTime="2019-10-08 14:00:50:756" />
+  <TextData EyeFrameIndex="-1" Value="152, 2, 695656.7721" Timestamp="976748" SynchronizedDateTime="2019-10-08 14:00:51:958" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695657.231" Timestamp="977210" SynchronizedDateTime="2019-10-08 14:00:52:426" />
+  <TextData EyeFrameIndex="-1" Value="153, 1, 695657.9721" Timestamp="977950" SynchronizedDateTime="2019-10-08 14:00:53:160" />
+  <TextData EyeFrameIndex="-1" Value="154, 1, 695659.1721" Timestamp="979149" SynchronizedDateTime="2019-10-08 14:00:54:361" />
+  <TextData EyeFrameIndex="-1" Value="155, 1, 695660.3721" Timestamp="980348" SynchronizedDateTime="2019-10-08 14:00:55:562" />
+  <TextData EyeFrameIndex="-1" Value="156, 2, 695661.5721" Timestamp="981560" SynchronizedDateTime="2019-10-08 14:00:56:763" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695662.1917" Timestamp="982171" SynchronizedDateTime="2019-10-08 14:00:57:387" />
+  <TextData EyeFrameIndex="-1" Value="157, 1, 695662.7721" Timestamp="982749" SynchronizedDateTime="2019-10-08 14:00:57:964" />
+  <TextData EyeFrameIndex="-1" Value="158, 1, 695663.9721" Timestamp="983948" SynchronizedDateTime="2019-10-08 14:00:59:150" />
+  <TextData EyeFrameIndex="-1" Value="159, 64, 695665.1721" Timestamp="985149" SynchronizedDateTime="2019-10-08 14:01:00:351" />
+  <TextData EyeFrameIndex="-1" Value="160, 3, 695666.3721" Timestamp="986352" SynchronizedDateTime="2019-10-08 14:01:01:555" />
+  <TextData EyeFrameIndex="-1" Value="Start time for block 5: 695676.3891" Timestamp="996365" SynchronizedDateTime="2019-10-08 14:01:11:574" />
+  <TextData EyeFrameIndex="-1" Value="1, 39, 695677.5891" Timestamp="997565" SynchronizedDateTime="2019-10-08 14:01:12:775" />
+  <TextData EyeFrameIndex="-1" Value="2, 1, 695678.7891" Timestamp="998766" SynchronizedDateTime="2019-10-08 14:01:13:976" />
+  <TextData EyeFrameIndex="-1" Value="3, 1, 695679.9891" Timestamp="999965" SynchronizedDateTime="2019-10-08 14:01:15:178" />
+  <TextData EyeFrameIndex="-1" Value="4, 2, 695681.1891" Timestamp="1001166" SynchronizedDateTime="2019-10-08 14:01:16:381" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695681.839" Timestamp="1001829" SynchronizedDateTime="2019-10-08 14:01:17:036" />
+  <TextData EyeFrameIndex="-1" Value="5, 1, 695682.3891" Timestamp="1002365" SynchronizedDateTime="2019-10-08 14:01:17:582" />
+  <TextData EyeFrameIndex="-1" Value="6, 1, 695683.5891" Timestamp="1003568" SynchronizedDateTime="2019-10-08 14:01:18:783" />
+  <TextData EyeFrameIndex="-1" Value="7, 1, 695684.7891" Timestamp="1004765" SynchronizedDateTime="2019-10-08 14:01:19:970" />
+  <TextData EyeFrameIndex="-1" Value="8, 2, 695685.9891" Timestamp="1005965" SynchronizedDateTime="2019-10-08 14:01:21:172" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695686.4314" Timestamp="1006408" SynchronizedDateTime="2019-10-08 14:01:21:625" />
+  <TextData EyeFrameIndex="-1" Value="9, 1, 695687.1891" Timestamp="1007165" SynchronizedDateTime="2019-10-08 14:01:22:374" />
+  <TextData EyeFrameIndex="-1" Value="10, 1, 695688.3891" Timestamp="1008374" SynchronizedDateTime="2019-10-08 14:01:23:591" />
+  <TextData EyeFrameIndex="-1" Value="11, 1, 695689.5891" Timestamp="1009565" SynchronizedDateTime="2019-10-08 14:01:24:777" />
+  <TextData EyeFrameIndex="-1" Value="12, 60, 695690.7891" Timestamp="1010765" SynchronizedDateTime="2019-10-08 14:01:25:979" />
+  <TextData EyeFrameIndex="-1" Value="13, 1, 695691.9891" Timestamp="1011965" SynchronizedDateTime="2019-10-08 14:01:27:180" />
+  <TextData EyeFrameIndex="-1" Value="14, 1, 695693.1891" Timestamp="1013166" SynchronizedDateTime="2019-10-08 14:01:28:382" />
+  <TextData EyeFrameIndex="-1" Value="15, 1, 695694.3891" Timestamp="1014385" SynchronizedDateTime="2019-10-08 14:01:29:599" />
+  <TextData EyeFrameIndex="-1" Value="16, 2, 695695.5891" Timestamp="1015569" SynchronizedDateTime="2019-10-08 14:01:30:785" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695695.9994" Timestamp="1015979" SynchronizedDateTime="2019-10-08 14:01:31:191" />
+  <TextData EyeFrameIndex="-1" Value="17, 1, 695696.7891" Timestamp="1016765" SynchronizedDateTime="2019-10-08 14:01:31:971" />
+  <TextData EyeFrameIndex="-1" Value="18, 1, 695697.9891" Timestamp="1017968" SynchronizedDateTime="2019-10-08 14:01:33:172" />
+  <TextData EyeFrameIndex="-1" Value="19, 35, 695699.1891" Timestamp="1019165" SynchronizedDateTime="2019-10-08 14:01:34:373" />
+  <TextData EyeFrameIndex="-1" Value="20, 3, 695700.3891" Timestamp="1020373" SynchronizedDateTime="2019-10-08 14:01:35:591" />
+  <TextData EyeFrameIndex="-1" Value="21, 1, 695701.5891" Timestamp="1021565" SynchronizedDateTime="2019-10-08 14:01:36:778" />
+  <TextData EyeFrameIndex="-1" Value="22, 1, 695702.7891" Timestamp="1022768" SynchronizedDateTime="2019-10-08 14:01:37:979" />
+  <TextData EyeFrameIndex="-1" Value="23, 1, 695703.9891" Timestamp="1024004" SynchronizedDateTime="2019-10-08 14:01:39:211" />
+  <TextData EyeFrameIndex="-1" Value="24, 2, 695705.1891" Timestamp="1025167" SynchronizedDateTime="2019-10-08 14:01:40:382" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695706.095" Timestamp="1026072" SynchronizedDateTime="2019-10-08 14:01:41:287" />
+  <TextData EyeFrameIndex="-1" Value="25, 1, 695706.3891" Timestamp="1026365" SynchronizedDateTime="2019-10-08 14:01:41:584" />
+  <TextData EyeFrameIndex="-1" Value="26, 1, 695707.5891" Timestamp="1027566" SynchronizedDateTime="2019-10-08 14:01:42:770" />
+  <TextData EyeFrameIndex="-1" Value="27, 1, 695708.7891" Timestamp="1028765" SynchronizedDateTime="2019-10-08 14:01:43:971" />
+  <TextData EyeFrameIndex="-1" Value="28, 2, 695709.9891" Timestamp="1029965" SynchronizedDateTime="2019-10-08 14:01:45:173" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695710.5277" Timestamp="1030505" SynchronizedDateTime="2019-10-08 14:01:45:719" />
+  <TextData EyeFrameIndex="-1" Value="29, 1, 695711.1891" Timestamp="1031165" SynchronizedDateTime="2019-10-08 14:01:46:374" />
+  <TextData EyeFrameIndex="-1" Value="30, 69, 695712.3891" Timestamp="1032365" SynchronizedDateTime="2019-10-08 14:01:47:575" />
+  <TextData EyeFrameIndex="-1" Value="31, 20, 695713.5891" Timestamp="1033565" SynchronizedDateTime="2019-10-08 14:01:48:777" />
+  <TextData EyeFrameIndex="-1" Value="32, 2, 695714.7891" Timestamp="1034766" SynchronizedDateTime="2019-10-08 14:01:49:979" />
+  <TextData EyeFrameIndex="-1" Value="33, 1, 695715.9891" Timestamp="1035965" SynchronizedDateTime="2019-10-08 14:01:51:181" />
+  <TextData EyeFrameIndex="-1" Value="34, 1, 695717.1891" Timestamp="1037166" SynchronizedDateTime="2019-10-08 14:01:52:383" />
+  <TextData EyeFrameIndex="-1" Value="35, 1, 695718.3891" Timestamp="1038365" SynchronizedDateTime="2019-10-08 14:01:53:584" />
+  <TextData EyeFrameIndex="-1" Value="36, 2, 695719.5891" Timestamp="1039565" SynchronizedDateTime="2019-10-08 14:01:54:770" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695720.015" Timestamp="1039992" SynchronizedDateTime="2019-10-08 14:01:55:206" />
+  <TextData EyeFrameIndex="-1" Value="37, 1, 695720.7891" Timestamp="1040766" SynchronizedDateTime="2019-10-08 14:01:55:971" />
+  <TextData EyeFrameIndex="-1" Value="38, 1, 695721.9891" Timestamp="1041965" SynchronizedDateTime="2019-10-08 14:01:57:172" />
+  <TextData EyeFrameIndex="-1" Value="39, 1, 695723.1891" Timestamp="1043166" SynchronizedDateTime="2019-10-08 14:01:58:373" />
+  <TextData EyeFrameIndex="-1" Value="40, 2, 695724.3891" Timestamp="1044366" SynchronizedDateTime="2019-10-08 14:01:59:574" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695724.7995" Timestamp="1044779" SynchronizedDateTime="2019-10-08 14:01:59:996" />
+  <TextData EyeFrameIndex="-1" Value="41, 1, 695725.5891" Timestamp="1045566" SynchronizedDateTime="2019-10-08 14:02:00:777" />
+  <TextData EyeFrameIndex="-1" Value="42, 1, 695726.7891" Timestamp="1046765" SynchronizedDateTime="2019-10-08 14:02:01:978" />
+  <TextData EyeFrameIndex="-1" Value="43, 1, 695727.9891" Timestamp="1047965" SynchronizedDateTime="2019-10-08 14:02:03:179" />
+  <TextData EyeFrameIndex="-1" Value="44, 2, 695729.1891" Timestamp="1049196" SynchronizedDateTime="2019-10-08 14:02:04:412" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695729.6157" Timestamp="1049592" SynchronizedDateTime="2019-10-08 14:02:04:802" />
+  <TextData EyeFrameIndex="-1" Value="45, 1, 695730.3891" Timestamp="1050365" SynchronizedDateTime="2019-10-08 14:02:05:582" />
+  <TextData EyeFrameIndex="-1" Value="46, 1, 695731.5891" Timestamp="1051565" SynchronizedDateTime="2019-10-08 14:02:06:784" />
+  <TextData EyeFrameIndex="-1" Value="47, 1, 695732.7891" Timestamp="1052770" SynchronizedDateTime="2019-10-08 14:02:07:985" />
+  <TextData EyeFrameIndex="-1" Value="48, 3, 695733.9891" Timestamp="1053966" SynchronizedDateTime="2019-10-08 14:02:09:186" />
+  <TextData EyeFrameIndex="-1" Value="49, 1, 695735.1891" Timestamp="1055168" SynchronizedDateTime="2019-10-08 14:02:10:373" />
+  <TextData EyeFrameIndex="-1" Value="50, 1, 695736.3891" Timestamp="1056365" SynchronizedDateTime="2019-10-08 14:02:11:574" />
+  <TextData EyeFrameIndex="-1" Value="51, 1, 695737.5891" Timestamp="1057568" SynchronizedDateTime="2019-10-08 14:02:12:776" />
+  <TextData EyeFrameIndex="-1" Value="52, 2, 695738.7891" Timestamp="1058765" SynchronizedDateTime="2019-10-08 14:02:13:977" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695739.2156" Timestamp="1059195" SynchronizedDateTime="2019-10-08 14:02:14:414" />
+  <TextData EyeFrameIndex="-1" Value="53, 1, 695739.9891" Timestamp="1059970" SynchronizedDateTime="2019-10-08 14:02:15:178" />
+  <TextData EyeFrameIndex="-1" Value="54, 1, 695741.1891" Timestamp="1061166" SynchronizedDateTime="2019-10-08 14:02:16:381" />
+  <TextData EyeFrameIndex="-1" Value="55, 65, 695742.3891" Timestamp="1062365" SynchronizedDateTime="2019-10-08 14:02:17:582" />
+  <TextData EyeFrameIndex="-1" Value="56, 59, 695743.5891" Timestamp="1063565" SynchronizedDateTime="2019-10-08 14:02:18:783" />
+  <TextData EyeFrameIndex="-1" Value="57, 57, 695744.7891" Timestamp="1064818" SynchronizedDateTime="2019-10-08 14:02:20:031" />
+  <TextData EyeFrameIndex="-1" Value="58, 1, 695745.9891" Timestamp="1065988" SynchronizedDateTime="2019-10-08 14:02:21:201" />
+  <TextData EyeFrameIndex="-1" Value="59, 1, 695747.1891" Timestamp="1067166" SynchronizedDateTime="2019-10-08 14:02:22:372" />
+  <TextData EyeFrameIndex="-1" Value="60, 2, 695748.3891" Timestamp="1068366" SynchronizedDateTime="2019-10-08 14:02:23:573" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695749.0233" Timestamp="1069000" SynchronizedDateTime="2019-10-08 14:02:24:213" />
+  <TextData EyeFrameIndex="-1" Value="61, 1, 695749.5891" Timestamp="1069566" SynchronizedDateTime="2019-10-08 14:02:24:775" />
+  <TextData EyeFrameIndex="-1" Value="62, 1, 695750.7891" Timestamp="1070765" SynchronizedDateTime="2019-10-08 14:02:25:977" />
+  <TextData EyeFrameIndex="-1" Value="63, 1, 695751.9891" Timestamp="1071967" SynchronizedDateTime="2019-10-08 14:02:27:178" />
+  <TextData EyeFrameIndex="-1" Value="64, 2, 695753.1891" Timestamp="1073167" SynchronizedDateTime="2019-10-08 14:02:28:381" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695753.935" Timestamp="1073913" SynchronizedDateTime="2019-10-08 14:02:29:131" />
+  <TextData EyeFrameIndex="-1" Value="65, 1, 695754.3891" Timestamp="1074373" SynchronizedDateTime="2019-10-08 14:02:29:583" />
+  <TextData EyeFrameIndex="-1" Value="66, 1, 695755.5891" Timestamp="1075565" SynchronizedDateTime="2019-10-08 14:02:30:784" />
+  <TextData EyeFrameIndex="-1" Value="67, 1, 695756.7891" Timestamp="1076766" SynchronizedDateTime="2019-10-08 14:02:31:986" />
+  <TextData EyeFrameIndex="-1" Value="68, 2, 695757.9891" Timestamp="1077966" SynchronizedDateTime="2019-10-08 14:02:33:171" />
+  <TextData EyeFrameIndex="-1" Value="69, 1, 695759.1891" Timestamp="1079166" SynchronizedDateTime="2019-10-08 14:02:34:373" />
+  <TextData EyeFrameIndex="-1" Value="70, 1, 695760.3891" Timestamp="1080366" SynchronizedDateTime="2019-10-08 14:02:35:575" />
+  <TextData EyeFrameIndex="-1" Value="71, 1, 695761.5891" Timestamp="1081570" SynchronizedDateTime="2019-10-08 14:02:36:777" />
+  <TextData EyeFrameIndex="-1" Value="72, 2, 695762.7891" Timestamp="1082777" SynchronizedDateTime="2019-10-08 14:02:37:994" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695763.3913" Timestamp="1083379" SynchronizedDateTime="2019-10-08 14:02:38:586" />
+  <TextData EyeFrameIndex="-1" Value="73, 27, 695763.9891" Timestamp="1083985" SynchronizedDateTime="2019-10-08 14:02:39:195" />
+  <TextData EyeFrameIndex="-1" Value="74, 1, 695765.1891" Timestamp="1085175" SynchronizedDateTime="2019-10-08 14:02:40:381" />
+  <TextData EyeFrameIndex="-1" Value="75, 24, 695766.3891" Timestamp="1086410" SynchronizedDateTime="2019-10-08 14:02:41:629" />
+  <TextData EyeFrameIndex="-1" Value="76, 2, 695767.5891" Timestamp="1087640" SynchronizedDateTime="2019-10-08 14:02:42:847" />
+  <TextData EyeFrameIndex="-1" Value="77, 1, 695768.7891" Timestamp="1088786" SynchronizedDateTime="2019-10-08 14:02:44:002" />
+  <TextData EyeFrameIndex="-1" Value="78, 1, 695769.9891" Timestamp="1089977" SynchronizedDateTime="2019-10-08 14:02:45:188" />
+  <TextData EyeFrameIndex="-1" Value="79, 1, 695771.1891" Timestamp="1091180" SynchronizedDateTime="2019-10-08 14:02:46:390" />
+  <TextData EyeFrameIndex="-1" Value="80, 2, 695772.3891" Timestamp="1092368" SynchronizedDateTime="2019-10-08 14:02:47:576" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695772.7676" Timestamp="1092756" SynchronizedDateTime="2019-10-08 14:02:47:966" />
+  <TextData EyeFrameIndex="-1" Value="81, 1, 695773.5891" Timestamp="1093575" SynchronizedDateTime="2019-10-08 14:02:48:794" />
+  <TextData EyeFrameIndex="-1" Value="82, 1, 695774.7891" Timestamp="1094771" SynchronizedDateTime="2019-10-08 14:02:49:979" />
+  <TextData EyeFrameIndex="-1" Value="83, 1, 695775.9891" Timestamp="1095973" SynchronizedDateTime="2019-10-08 14:02:51:181" />
+  <TextData EyeFrameIndex="-1" Value="84, 2, 695777.1891" Timestamp="1097176" SynchronizedDateTime="2019-10-08 14:02:52:383" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695777.5991" Timestamp="1097581" SynchronizedDateTime="2019-10-08 14:02:52:788" />
+  <TextData EyeFrameIndex="-1" Value="85, 1, 695778.3891" Timestamp="1098371" SynchronizedDateTime="2019-10-08 14:02:53:584" />
+  <TextData EyeFrameIndex="-1" Value="86, 1, 695779.5891" Timestamp="1099571" SynchronizedDateTime="2019-10-08 14:02:54:785" />
+  <TextData EyeFrameIndex="-1" Value="87, 1, 695780.7891" Timestamp="1100769" SynchronizedDateTime="2019-10-08 14:02:55:987" />
+  <TextData EyeFrameIndex="-1" Value="88, 21, 695781.9891" Timestamp="1101968" SynchronizedDateTime="2019-10-08 14:02:57:188" />
+  <TextData EyeFrameIndex="-1" Value="89, 1, 695783.1891" Timestamp="1103191" SynchronizedDateTime="2019-10-08 14:02:58:406" />
+  <TextData EyeFrameIndex="-1" Value="90, 1, 695784.3891" Timestamp="1104368" SynchronizedDateTime="2019-10-08 14:02:59:576" />
+  <TextData EyeFrameIndex="-1" Value="91, 1, 695785.5891" Timestamp="1105568" SynchronizedDateTime="2019-10-08 14:03:00:778" />
+  <TextData EyeFrameIndex="-1" Value="92, 3, 695786.7891" Timestamp="1106768" SynchronizedDateTime="2019-10-08 14:03:01:979" />
+  <TextData EyeFrameIndex="-1" Value="93, 1, 695787.9891" Timestamp="1107970" SynchronizedDateTime="2019-10-08 14:03:03:180" />
+  <TextData EyeFrameIndex="-1" Value="94, 88, 695789.1891" Timestamp="1109175" SynchronizedDateTime="2019-10-08 14:03:04:382" />
+  <TextData EyeFrameIndex="-1" Value="95, 1, 695790.3891" Timestamp="1110370" SynchronizedDateTime="2019-10-08 14:03:05:584" />
+  <TextData EyeFrameIndex="-1" Value="96, 3, 695791.5891" Timestamp="1111574" SynchronizedDateTime="2019-10-08 14:03:06:785" />
+  <TextData EyeFrameIndex="-1" Value="97, 1, 695792.7891" Timestamp="1112774" SynchronizedDateTime="2019-10-08 14:03:07:986" />
+  <TextData EyeFrameIndex="-1" Value="98, 1, 695793.9891" Timestamp="1113974" SynchronizedDateTime="2019-10-08 14:03:09:187" />
+  <TextData EyeFrameIndex="-1" Value="99, 1, 695795.1891" Timestamp="1115172" SynchronizedDateTime="2019-10-08 14:03:10:389" />
+  <TextData EyeFrameIndex="-1" Value="100, 2, 695796.3891" Timestamp="1116389" SynchronizedDateTime="2019-10-08 14:03:11:606" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695796.8641" Timestamp="1116864" SynchronizedDateTime="2019-10-08 14:03:12:074" />
+  <TextData EyeFrameIndex="-1" Value="101, 1, 695797.5891" Timestamp="1117570" SynchronizedDateTime="2019-10-08 14:03:12:777" />
+  <TextData EyeFrameIndex="-1" Value="102, 1, 695798.7891" Timestamp="1118784" SynchronizedDateTime="2019-10-08 14:03:13:994" />
+  <TextData EyeFrameIndex="-1" Value="103, 1, 695799.9891" Timestamp="1119973" SynchronizedDateTime="2019-10-08 14:03:15:180" />
+  <TextData EyeFrameIndex="-1" Value="104, 3, 695801.1891" Timestamp="1121174" SynchronizedDateTime="2019-10-08 14:03:16:381" />
+  <TextData EyeFrameIndex="-1" Value="105, 1, 695802.3891" Timestamp="1122370" SynchronizedDateTime="2019-10-08 14:03:17:582" />
+  <TextData EyeFrameIndex="-1" Value="106, 1, 695803.5891" Timestamp="1123570" SynchronizedDateTime="2019-10-08 14:03:18:783" />
+  <TextData EyeFrameIndex="-1" Value="107, 22, 695804.7891" Timestamp="1124770" SynchronizedDateTime="2019-10-08 14:03:19:984" />
+  <TextData EyeFrameIndex="-1" Value="108, 2, 695805.9891" Timestamp="1125980" SynchronizedDateTime="2019-10-08 14:03:21:201" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695806.6559" Timestamp="1126657" SynchronizedDateTime="2019-10-08 14:03:21:873" />
+  <TextData EyeFrameIndex="-1" Value="109, 1, 695807.1891" Timestamp="1127173" SynchronizedDateTime="2019-10-08 14:03:22:388" />
+  <TextData EyeFrameIndex="-1" Value="110, 1, 695808.3891" Timestamp="1128374" SynchronizedDateTime="2019-10-08 14:03:23:589" />
+  <TextData EyeFrameIndex="-1" Value="111, 1, 695809.5891" Timestamp="1129575" SynchronizedDateTime="2019-10-08 14:03:24:791" />
+  <TextData EyeFrameIndex="-1" Value="112, 2, 695810.7891" Timestamp="1130774" SynchronizedDateTime="2019-10-08 14:03:25:992" />
+  <TextData EyeFrameIndex="-1" Value="113, 1, 695811.9891" Timestamp="1131969" SynchronizedDateTime="2019-10-08 14:03:27:178" />
+  <TextData EyeFrameIndex="-1" Value="114, 1, 695813.1891" Timestamp="1133171" SynchronizedDateTime="2019-10-08 14:03:28:395" />
+  <TextData EyeFrameIndex="-1" Value="115, 1, 695814.3891" Timestamp="1134368" SynchronizedDateTime="2019-10-08 14:03:29:580" />
+  <TextData EyeFrameIndex="-1" Value="116, 2, 695815.5891" Timestamp="1135582" SynchronizedDateTime="2019-10-08 14:03:30:798" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695816.0798" Timestamp="1136063" SynchronizedDateTime="2019-10-08 14:03:31:282" />
+  <TextData EyeFrameIndex="-1" Value="117, 1, 695816.7891" Timestamp="1136770" SynchronizedDateTime="2019-10-08 14:03:31:984" />
+  <TextData EyeFrameIndex="-1" Value="118, 1, 695817.9891" Timestamp="1137991" SynchronizedDateTime="2019-10-08 14:03:33:201" />
+  <TextData EyeFrameIndex="-1" Value="119, 1, 695819.1891" Timestamp="1139170" SynchronizedDateTime="2019-10-08 14:03:34:387" />
+  <TextData EyeFrameIndex="-1" Value="120, 2, 695820.3891" Timestamp="1140376" SynchronizedDateTime="2019-10-08 14:03:35:589" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695820.8635" Timestamp="1140844" SynchronizedDateTime="2019-10-08 14:03:36:057" />
+  <TextData EyeFrameIndex="-1" Value="121, 41, 695821.5891" Timestamp="1141573" SynchronizedDateTime="2019-10-08 14:03:36:793" />
+  <TextData EyeFrameIndex="-1" Value="122, 1, 695822.7891" Timestamp="1142781" SynchronizedDateTime="2019-10-08 14:03:37:994" />
+  <TextData EyeFrameIndex="-1" Value="123, 1, 695823.9891" Timestamp="1143970" SynchronizedDateTime="2019-10-08 14:03:39:179" />
+  <TextData EyeFrameIndex="-1" Value="124, 2, 695825.1891" Timestamp="1145170" SynchronizedDateTime="2019-10-08 14:03:40:382" />
+  <TextData EyeFrameIndex="-1" Value="125, 62, 695826.3891" Timestamp="1146374" SynchronizedDateTime="2019-10-08 14:03:41:583" />
+  <TextData EyeFrameIndex="-1" Value="126, 1, 695827.5891" Timestamp="1147575" SynchronizedDateTime="2019-10-08 14:03:42:785" />
+  <TextData EyeFrameIndex="-1" Value="127, 1, 695828.7891" Timestamp="1148773" SynchronizedDateTime="2019-10-08 14:03:43:986" />
+  <TextData EyeFrameIndex="-1" Value="128, 2, 695829.9891" Timestamp="1149972" SynchronizedDateTime="2019-10-08 14:03:45:187" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695830.5918" Timestamp="1150574" SynchronizedDateTime="2019-10-08 14:03:45:781" />
+  <TextData EyeFrameIndex="-1" Value="129, 1, 695831.1891" Timestamp="1151169" SynchronizedDateTime="2019-10-08 14:03:46:390" />
+  <TextData EyeFrameIndex="-1" Value="130, 1, 695832.3891" Timestamp="1152373" SynchronizedDateTime="2019-10-08 14:03:47:591" />
+  <TextData EyeFrameIndex="-1" Value="131, 85, 695833.5891" Timestamp="1153569" SynchronizedDateTime="2019-10-08 14:03:48:777" />
+  <TextData EyeFrameIndex="-1" Value="132, 2, 695834.7891" Timestamp="1154771" SynchronizedDateTime="2019-10-08 14:03:49:979" />
+  <TextData EyeFrameIndex="-1" Value="133, 1, 695835.9891" Timestamp="1155985" SynchronizedDateTime="2019-10-08 14:03:51:196" />
+  <TextData EyeFrameIndex="-1" Value="134, 1, 695837.1891" Timestamp="1157200" SynchronizedDateTime="2019-10-08 14:03:52:413" />
+  <TextData EyeFrameIndex="-1" Value="135, 1, 695838.3891" Timestamp="1158399" SynchronizedDateTime="2019-10-08 14:03:53:614" />
+  <TextData EyeFrameIndex="-1" Value="136, 2, 695839.5891" Timestamp="1159600" SynchronizedDateTime="2019-10-08 14:03:54:816" />
+  <TextData EyeFrameIndex="-1" Value="137, 1, 695840.7891" Timestamp="1160770" SynchronizedDateTime="2019-10-08 14:03:55:986" />
+  <TextData EyeFrameIndex="-1" Value="138, 1, 695841.9891" Timestamp="1161970" SynchronizedDateTime="2019-10-08 14:03:57:187" />
+  <TextData EyeFrameIndex="-1" Value="139, 1, 695843.1891" Timestamp="1163169" SynchronizedDateTime="2019-10-08 14:03:58:389" />
+  <TextData EyeFrameIndex="-1" Value="140, 2, 695844.3891" Timestamp="1164370" SynchronizedDateTime="2019-10-08 14:03:59:590" />
+  <TextData EyeFrameIndex="-1" Value="141, 1, 695845.5891" Timestamp="1165579" SynchronizedDateTime="2019-10-08 14:04:00:792" />
+  <TextData EyeFrameIndex="-1" Value="142, 1, 695846.7891" Timestamp="1166772" SynchronizedDateTime="2019-10-08 14:04:01:994" />
+  <TextData EyeFrameIndex="-1" Value="143, 1, 695847.9891" Timestamp="1167976" SynchronizedDateTime="2019-10-08 14:04:03:195" />
+  <TextData EyeFrameIndex="-1" Value="144, 2, 695849.1891" Timestamp="1169168" SynchronizedDateTime="2019-10-08 14:04:04:380" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695849.7753" Timestamp="1169760" SynchronizedDateTime="2019-10-08 14:04:04:973" />
+  <TextData EyeFrameIndex="-1" Value="145, 68, 695850.3891" Timestamp="1170378" SynchronizedDateTime="2019-10-08 14:04:05:597" />
+  <TextData EyeFrameIndex="-1" Value="146, 1, 695851.5891" Timestamp="1171568" SynchronizedDateTime="2019-10-08 14:04:06:784" />
+  <TextData EyeFrameIndex="-1" Value="147, 1, 695852.7891" Timestamp="1172774" SynchronizedDateTime="2019-10-08 14:04:07:985" />
+  <TextData EyeFrameIndex="-1" Value="148, 2, 695853.9891" Timestamp="1173971" SynchronizedDateTime="2019-10-08 14:04:09:186" />
+  <TextData EyeFrameIndex="-1" Value="149, 1, 695855.1891" Timestamp="1175197" SynchronizedDateTime="2019-10-08 14:04:10:420" />
+  <TextData EyeFrameIndex="-1" Value="150, 1, 695856.3891" Timestamp="1176393" SynchronizedDateTime="2019-10-08 14:04:11:605" />
+  <TextData EyeFrameIndex="-1" Value="151, 1, 695857.5891" Timestamp="1177592" SynchronizedDateTime="2019-10-08 14:04:12:807" />
+  <TextData EyeFrameIndex="-1" Value="152, 2, 695858.7891" Timestamp="1178790" SynchronizedDateTime="2019-10-08 14:04:14:009" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695859.2957" Timestamp="1179280" SynchronizedDateTime="2019-10-08 14:04:14:492" />
+  <TextData EyeFrameIndex="-1" Value="153, 19, 695859.9891" Timestamp="1179980" SynchronizedDateTime="2019-10-08 14:04:15:194" />
+  <TextData EyeFrameIndex="-1" Value="154, 1, 695861.1891" Timestamp="1181192" SynchronizedDateTime="2019-10-08 14:04:16:411" />
+  <TextData EyeFrameIndex="-1" Value="155, 1, 695862.3891" Timestamp="1182393" SynchronizedDateTime="2019-10-08 14:04:17:612" />
+  <TextData EyeFrameIndex="-1" Value="156, 3, 695863.5891" Timestamp="1183595" SynchronizedDateTime="2019-10-08 14:04:18:814" />
+  <TextData EyeFrameIndex="-1" Value="157, 1, 695864.7891" Timestamp="1184770" SynchronizedDateTime="2019-10-08 14:04:19:984" />
+  <TextData EyeFrameIndex="-1" Value="158, 1, 695865.9891" Timestamp="1185973" SynchronizedDateTime="2019-10-08 14:04:21:186" />
+  <TextData EyeFrameIndex="-1" Value="159, 1, 695867.1891" Timestamp="1187172" SynchronizedDateTime="2019-10-08 14:04:22:388" />
+  <TextData EyeFrameIndex="-1" Value="160, 2, 695868.3891" Timestamp="1188382" SynchronizedDateTime="2019-10-08 14:04:23:605" />
+  <TextData EyeFrameIndex="-1" Value="Key press at 695868.7512" Timestamp="1188736" SynchronizedDateTime="2019-10-08 14:04:23:948" />
+</TextDataChronicle>
