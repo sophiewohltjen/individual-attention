@@ -39,11 +39,11 @@ if trial == 0
 
     % if you want the already preprocessed data
     if subNo > 99
-        rawPupil = [pupilBaseFolder, num2str(subNo), oddballorno, '_noEB_filt_10_lefteye.txt'];
+        rawPupil = [pupilBaseFolder, num2str(subNo), '_noEB_filt_10_lefteye.txt'];
     elseif subNo > 9 && subNo < 100
-        rawPupil = [pupilBaseFolder, '0', num2str(subNo), oddballorno, '_noEB_filt_10_lefteye.txt'];
+        rawPupil = [pupilBaseFolder, '0', num2str(subNo), '_noEB_filt_10_lefteye.txt'];
     elseif subNo < 10
-        rawPupil = [pupilBaseFolder, '00', num2str(subNo), oddballorno, '_noEB_filt_10_lefteye.txt'];
+        rawPupil = [pupilBaseFolder, '00', num2str(subNo), '_noEB_filt_10_lefteye.txt'];
     end
     %for timestamps
     rawTime = [timeBaseFolder, num2str(subNo), oddballorno, '_raw.txt'];
@@ -58,11 +58,11 @@ if trial == 0
 else
     % if you want the already preprocessed data
     if subNo > 99
-        rawPupil = [pupilBaseFolder, num2str(subNo), '_', num2str(trial), oddballorno, '_noEB_filt_10_lefteye.txt'];
+        rawPupil = [pupilBaseFolder, num2str(subNo), '_', num2str(trial), '_noEB_filt_10_lefteye.txt'];
     elseif subNo > 9 && subNo < 100
-        rawPupil = [pupilBaseFolder, '0', num2str(subNo), '_', num2str(trial), oddballorno, '_noEB_filt_10_lefteye.txt'];
+        rawPupil = [pupilBaseFolder, '0', num2str(subNo), '_', num2str(trial), '_noEB_filt_10_lefteye.txt'];
     elseif subNo < 10
-        rawPupil = [pupilBaseFolder, '00', num2str(subNo), '_', num2str(trial), oddballorno, '_noEB_filt_10_lefteye.txt'];
+        rawPupil = [pupilBaseFolder, '00', num2str(subNo), '_', num2str(trial), '_noEB_filt_10_lefteye.txt'];
     end
     %for timestamps
     rawTime = [timeBaseFolder, num2str(subNo), '_',num2str(trial), oddballorno, '_raw.txt'];

@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 #will need to be changed as base directory changes
 base_directory = "/Users/Sophie/Dropbox/IRF_modeling/individual-attention"
 #which study? can be "study1", "study2", or "study3"
-study = "study1"
+study = "study2"
 
 #get the raw data files using a global variable.
 rawfiles = glob.glob("{0}/Data/{1}/raw_pupils/*.txt".format(base_directory,study))
@@ -151,8 +151,8 @@ for file in sorted(rawfiles):
 	np.savetxt(threshval_file,np.c_[[sub],[val],[winsize]],fmt='%s',delimiter=',')
 	
 	#if we want to save the event files (but this requires some manual cleaning afterward which has already been done)
-	eventdir="/Users/sophie/Dropbox/IRF_modeling/data/events"
-	np.savetxt("{0}/{1}_events.txt".format(eventdir,sub),events.astype(int))
+	#eventdir="{0}/Analyses/{1}/events".format(base_directory,study)
+	#np.savetxt("{0}/{1}_events.txt".format(eventdir,sub),events.astype(int))
     
 threshval_file.close()
 
