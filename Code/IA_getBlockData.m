@@ -1,10 +1,11 @@
-function IA_getBlockData(subNo,base_directory)
+function IA_getBlockData(subNo,studyNo,base_directory)
 
-pupildir = sprintf('%s/Data/study2/raw_pupils/',base_directory);
-eventdir = sprintf('%s/Analyses/study2/events/',base_directory);
-preprocdir = sprintf('%s/Analyses/study2/preprocessed_pupils/',base_directory);
+pupildir = sprintf('%s/Data/%s/oddball_task/raw_pupils/',base_directory,studyNo);
+eventdir = sprintf('%s/Analyses/%s/oddball_task/events/',base_directory,studyNo);
+preprocdir = sprintf('%s/Analyses/%s/oddball_task/preprocessed_pupils/',base_directory,studyNo);
 
-% make this an empty string if you don't want it to say '_oddball'
+% make this an empty string if you don't want it to say '_oddball' (we want
+% it to say this when study = study2!
 oddballorno = '_oddball';
 
 % get struct of subject data by block
@@ -18,7 +19,7 @@ blockseconds = numtrials*isi;
 timesInterp = [0*1000:1000/fs:blockseconds*1000]';
 
 for i=1:length(subNo)
-    subnum = str2double(subNo{i});
+    subnum = str2double(subNo{i}(1:3));
     if length(subNo{i}) > 3
         trial = subNo{i}(4:5);
     else
@@ -64,6 +65,6 @@ for i=1:length(subNo)
 end
 
 % save the data because this takes forever!!
-save(sprintf('%s/Analyses/study2/IA_blockdata.mat',base_directory),'blockData')
+save(sprintf('%s/Analyses/%s/oddball_task/IA_blockdata.mat',base_directory,studyNo),'blockData')
 
 end

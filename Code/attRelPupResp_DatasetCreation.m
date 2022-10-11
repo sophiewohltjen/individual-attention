@@ -26,9 +26,16 @@ function attRelPupResp_DatasetCreation(base_dir,study,stim)
         '075','077','078','079','080','081','082','083','084','086','087','088','089','090',...
         '092','093','094','095','096','097','100','101','102','106'};
     end
+    
+    % length in time (sec) before stimulus onset
+    pre = 1; 
+    % trial data length after stimulus onset (epoch length), time in secs
+    post = 3;
+    %percentage (in decimal) of pre to use for baseline
+    baseline = 1;
 
     % this is our directory of interest
-    wdir = sprintf('%s/Analyses/%s/preprocessed_pupil_epochs',base_dir,study);
+    wdir = sprintf('%s/Analyses/%s/oddball_task/preprocessed_pupil_epochs',base_dir,study);
     cd(wdir)
 
     %start counter
@@ -42,15 +49,18 @@ function attRelPupResp_DatasetCreation(base_dir,study,stim)
         for i = 1:length(subfiles)
             load(subfiles(i).name);
             %clean up the response 
-            [~,datamean] = epochCleaning(trialData.(stim));
+            [~,datamean] = epochCleaning(trialData.(stim),pre,post,baseline);
             if ~isnan(datamean)
                 %add datamean to a table of all subjects' responses
                 subdata(count,:) = datamean;
                 %add subs ID to cell array of sub IDS
-                %FOR REP IRF
-                subIDs{count} = sprintf('sub%s',subfiles(i).name(11:15));
-                %FOR REGULAR
-    %             subIDs{count} = sprintf('sub%s',subfiles(i).name(11:13));
+                if study == 'study1'
+                    %FOR REP IRF
+                    subIDs{count} = sprintf('sub%s',subfiles(i).name(11:15));
+                else
+                    %FOR REGULAR
+                    subIDs{count} = sprintf('sub%s',subfiles(i).name(11:13));
+                end
                 count = count+1;
             end
         end
@@ -60,5 +70,5 @@ function attRelPupResp_DatasetCreation(base_dir,study,stim)
     datatable = array2table(subdata');
     datatable.Properties.VariableNames = subIDs;
 
-    writetable(datatable,sprintf('%s/Analyses/%s/IA_%smeans.csv',base_dir,study,stim));
+    writetable(datatable,sprintf('%s/Analyses/%s/oddball_task/IA_%smeans_%dspre_%dspost.csv',base_dir,study,stim,pre,post));
 end

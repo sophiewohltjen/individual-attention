@@ -11,10 +11,12 @@
 
 %% step 1. grab files
 
-filedir = '/Users/sophie/Dropbox/IRF_modeling/data/preprocessed/listen';
-eventdir = '/Users/sophie/Dropbox/IRF_modeling/data/events/listen';
-timedir = '/Users/sophie/Dropbox/IRF_modeling/data/raw/listen';
-storydir = '/Users/sophie/Dropbox/IRF_modeling/data/listen_indivTrials/scriptTest';
+base_directory = '/Users/sophie/Dropbox/IRF_modeling/individual-attention';
+
+filedir = sprintf('%s/Analyses/study2/listening_task/preprocessed_pupils',base_directory);
+eventdir = sprintf('%s/Analyses/study2/listening_task/events',base_directory);
+timedir = sprintf('%s/Data/study2/listening_task/raw_pupils',base_directory);
+storydir = sprintf('%s/Analyses/study2/listening_task/preprocessed_pupils_indivStories',base_directory);
 files = dir(sprintf('%s/*',filedir));
 filenames = {files(4:end).name};
 

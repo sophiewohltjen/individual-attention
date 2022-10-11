@@ -1,10 +1,6 @@
-function [cleandata,datamean] = epochCleaning(data)
+function [cleandata,datamean] = epochCleaning(data,pre,post,baseline)
 % a function to output cleaned data for a given stimulus type
 
-% baseline length in time (sec)
-pre = 1; 
-% trial data length after stimulus onset (epoch length), time in secs
-post = 3;
 % sampling frequency 
 sampRate = 30;
 % epoch length
@@ -31,9 +27,8 @@ end
 % subtract baseline?
 trialNo = size(data, 1);
 for trial = 1:trialNo
-    baseline_100ms = nanmean(data(trial, 1:((pre*sampRate)-3)));
-    %baseline_whole = nanmean(data(trial, 1:pre*sampRate+1));
-    data(trial, :) = data(trial, :) - baseline_100ms;
+    baseline_subtract = nanmean(data(trial, 1:pre*baseline*sampRate));
+    data(trial, :) = data(trial, :) - baseline_subtract;
 end
 
 %calculate percentage of data missing

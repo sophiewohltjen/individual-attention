@@ -8,23 +8,38 @@
 % 3. reaction time 
 % 4. ISI and DSI entrainment power
 
-% NOTE this script is only used in the calculation of variables for studies
-% two and three!
-
 % Sophie Wohltjen, 9/21
 
 %% first, define variables
 
 base_directory = '/Users/sophie/Dropbox/IRF_modeling/individual-attention';
 
+% need to change based on whether it's study 1 or study 2!
+study = 'study2';
+%how many seconds before and after stimulus onset?
+pre=1;
+post=3;
+
 stimtypes = {'acc_oddball','omission','standard','novel'};
 
-subNo = {'001','002','003','005','008','009','010','011','012','013','014','015','016',...
-        '017','018','021','022','023','027','028','029','030','031','032',...
+if all(ismember('study1',study))
+        subNo = {'107_1','107_2','107_3','107_4','107_5','107_6','107_7','107_9',...
+        '108_2','108_3',...
+        '109_1','109_2','109_3','109_4','109_5','109_6','109_7','109_8','109_9',...
+        '110_1','110_2','110_4','110_5','110_6','110_7','110_9',...
+        '111_1','111_2','111_5','111_7','111_9',...
+        '112_1','112_2','112_3','112_4','112_5','112_6','112_7','112_9',...
+        '113_1','113_2','113_3','113_4','113_5','113_6','113_7','113_8','113_9',...
+        '114_5','114_7'};
+
+elseif all(ismember('study2',study))
+        subNo = {'001','002','003','005','008','009','010','011','012','013','014','015','016'...
+        ,'017','018','021','022','023','027','028','029','030','031','032',...
         '034','036','037','038','039','053','054','055','056','057','058','059',...
         '060','061','063','064','065','067','068','069','070','071','072','073',...
         '075','077','078','079','080','081','082','083','084','086','087','088','089','090',...
         '092','093','094','095','096','097','100','101','102','106'};
+end
     
 datatable = table('Size',[length(subNo)*4 14],...
     'VariableTypes',{'string','string','double','double','double',...
@@ -40,13 +55,18 @@ datatable.condition = repelem(stimtypes,length(subNo))';
 %% calculate amplitude and tmax
 amplitudes = [];
 tmaxes = [];
+startsample = 31;
+endsample = 121;
+x = -1*1000:1000/30:3*1000;
 for i=1:length(stimtypes)
-    IRFs = readtable(sprintf('%s/Analyses/study2/IA_%smeans.csv',base_directory,stimtypes{i}));
+    IRFs = readtable(sprintf('%s/Analyses/%s/oddball_task/IA_%smeans_%dspre_%dspost.csv',base_directory,study,stimtypes{i},pre,post));
+
     % what was the amplitude of their pupil response?
-    amplitude = max(table2array(IRFs),[],1)';
+    amplitude = max(table2array(IRFs(startsample:endsample,:)),[],1)';
+
     % what was the time needed to get to their peak response?
-    [tmaxr,tmaxc] = find(table2array(IRFs) == max(table2array(IRFs),[],1));
-    tmax = (tmaxr - 30)/30 * 1000;
+    [tmaxr,tmaxc] = find(table2array(IRFs(startsample:endsample,:)) == max(table2array(IRFs(startsample:endsample,:)),[],1));
+    tmax = (tmaxr)/30 * 1000;
     
     %now save the values to a final array for the datatable
     amplitudes = cat(1,amplitudes,amplitude);
@@ -59,7 +79,7 @@ datatable.tmax = tmaxes;
 %% calculate RT and values needed to evaluate dprime 
 
 for i=1:length(subNo)
-    if subNo{i} == '002'
+    if all(ismember(subNo{i},'002'))
         n_targets(i) = 137;
         n_hit(i) = 131;
         n_miss(i) = n_targets(i) - n_hit(i);
@@ -70,12 +90,12 @@ for i=1:length(subNo)
     else
     
         %load data in
-        cd(sprintf('%s/Data/study2/experiment_logs/Sub%s_trialn160_blockn5',base_directory,subNo{i}));
+        cd(sprintf('%s/Data/%s/oddball_task/experiment_logs/Sub%s_trialn160_blockn5',base_directory,study,subNo{i}));
         load(sprintf('results_sub%s_block5.mat',subNo{i}));
         load(sprintf('trialTable_%s_160_5.mat',subNo{i}));
         %load trialData in
-        fileN = [base_directory,'/Analyses/study2/preprocessed_pupil_epochs/trialData_',... 
-            subNo{i},'.mat'];
+        fileN = [base_directory,'/Analyses/',study,'/oddball_task/preprocessed_pupil_epochs/trialData_',... 
+            subNo{i},'_',num2str(pre),'spre_',num2str(post),'spost.mat'];
         load(fileN);
 
         %format trial & rt data correctly
@@ -120,18 +140,14 @@ datatable.n_cr = [crs{:}]';
 %% calculate entrainment power at ISI and DSI
 
 % extracting the block data takes forever, so I've saved it for speed
-if ~exist(sprintf('%s/Analyses/study2/IA_blockdata.mat',base_directory))
-    IA_getBlockData(subNo,base_directory)
+if ~exist(sprintf('%s/Analyses/%s/oddball_task/IA_blockdata.mat',base_directory,study))
+    IA_getBlockData(subNo,study,base_directory)
 end
 
 % preprocess blocks according to Naber, et al.
-load(sprintf('%s/Analyses/study2/IA_blockdata.mat',base_directory))
+load(sprintf('%s/Analyses/%s/oddball_task/IA_blockdata.mat',base_directory,study))
 
 subs = fields(blockData);
-%values for interpolation
-pre=10;
-post=10;
-buffer=2;
 
 for i=1:length(subs)
     blocks = fields(blockData.(subs{i}));
@@ -216,4 +232,4 @@ totpow = repelem({total_power},4);
 datatable.powerSum = [totpow{:}]';
 
 %% write everything to a csv for statistics in R
-writetable(datatable,sprintf('%s/Analyses/study2/IA_allData.csv',base_directory));
+writetable(datatable,sprintf('%s/Analyses/%s/oddball_task/IA_allData_%dspre_%dspost.csv',base_directory,study,pre,post));

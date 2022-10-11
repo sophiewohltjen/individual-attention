@@ -1,4 +1,4 @@
-function pupilGlue(subNo)
+function pupilGlue(subNo,pre,post)
 
 %% Function to glue together pupil data processing scripts
 %
@@ -11,6 +11,17 @@ function pupilGlue(subNo)
 %
 % Input(s):
 % subNo -   vector of subject numbers
+% pre - number of seconds before stimulus onset (for main analysis, this is 1)
+% post - number of seconds after stimulus onset (for main analysis, this is 3)
+
+%for study 1, subNo is: 
+% subNo = {'107_1','107_2','107_3','107_4','107_5','107_6','107_7','107_9',...
+%     '108_2','108_3','108_7','108_8','109_1','109_2','109_3','109_4','109_5',...
+%     '109_6','109_7','109_8','109_9','110_1','110_2','110_4','110_5',...
+%     '110_6','110_7','110_8','110_9','111_1','111_2','111_3','111_4','111_5',...
+%     '111_6','111_7','111_9','112_1','112_2','112_3','112_4','112_5','112_6',...
+%     '112_7','112_9','113_1','113_2','113_3','113_4','113_5','113_6','113_7',...
+%     '113_8','113_9','114_1','114_2','114_3','114_4','114_5','114_6','114_7'};
 
 %for study 2, subNo is:
 % subNo = {'001','002','003','005','006','008','009','010','011','012','013',...
@@ -46,12 +57,12 @@ end
 base_directory = '/Users/sophie/Dropbox/IRF_modeling/individual-attention';
 study = 'study2';
 
-% epoching temporal boundaries in secs, relative to stimulus onset
-pre = 1; % baseline
-post = 3; % trial data length following stimulus onset
+
 
 % folder for result mat files
-folder = sprintf('%s/Analyses/%s/preprocessed_pupil_epochs/',base_directory,study);
+folder = sprintf('%s/Analyses/%s/oddball_task/preprocessed_pupil_epochs/',base_directory,study);
+
+
 
 
 %% Loop through subjects
@@ -63,8 +74,7 @@ for sub = subNo
     disp([char(10), char(10), 'Processing steps for subject ', sub]);
     
     % save file
-    %saveF = [folder, 'trialData_', sub, '_',num2str(pre),'_',num2str(post),'.mat'];
-    saveF = [folder, 'trialData_', sub,'.mat'];
+    saveF = [folder, 'trialData_', sub, '_',num2str(pre),'spre_',num2str(post),'spost.mat'];
     
     
     %% filenames, loading data
@@ -105,7 +115,7 @@ for sub = subNo
 
         %% epoching
 
-        trialData = stimData(pupilData, stimuli, pre, post,responses);
+        trialData = stimData(pupilData, stimuli, pre, post, responses);
 
 
         %% save epoch data

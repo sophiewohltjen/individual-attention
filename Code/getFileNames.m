@@ -21,9 +21,9 @@ function [rawTime, rawPupil, eventXml] = getFileNames(subNo,trial,base_directory
 
 %pupilBaseFolder = '/Users/sophie/Dropbox/IRF_modeling/data/raw/';
 % uncomment if you want to use already preprocessed data
-pupilBaseFolder = sprintf('%s/Analyses/%s/preprocessed_pupils/',base_directory,study);
-timeBaseFolder = sprintf('%s/Data/%s/raw_pupils/',base_directory,study);
-eventBaseFolder = sprintf('%s/Analyses/%s/events/',base_directory,study);
+pupilBaseFolder = sprintf('%s/Analyses/%s/oddball_task/preprocessed_pupils/',base_directory,study);
+timeBaseFolder = sprintf('%s/Data/%s/oddball_task/raw_pupils/',base_directory,study);
+eventBaseFolder = sprintf('%s/Analyses/%s/oddball_task/events/',base_directory,study);
 
 if all(ismember('study2',study))
     oddballorno = '_oddball';
